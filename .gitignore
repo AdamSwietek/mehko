@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Large GeoJSON not needed for the web map
+data/Food_Deserts.geojson
+
+# Scratch file
+main.html
+
+# Environment / secrets
+.env

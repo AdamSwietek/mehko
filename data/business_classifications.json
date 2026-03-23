@@ -1,0 +1,2367 @@
+{
+  "3 UP BURGERS": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "burgers",
+      "cheeseburgers",
+      "smash burgers"
+    ],
+    "description": "Serves burgers with various toppings in Los Angeles."
+  },
+  "ABSOLUTE SWEETNESS CAFE": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "cafe",
+      "sweets"
+    ],
+    "description": "Mom-and-pop Mexican cafe offering food and sweet treats in Montebello."
+  },
+  "ADA DELICIOSA COMIDA GUAT": {
+    "business_type": "Salvadoran/Guatemalan",
+    "cuisine_tags": [
+      "guatemalan",
+      "comida tipica"
+    ],
+    "description": "Serves delicious homemade Guatemalan food in Northridge."
+  },
+  "ALEJANDRA'S COCINA": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "carne asada",
+      "guisados"
+    ],
+    "description": "Mexican home kitchen serving carne asada, quesadillas, guisados, and mole fries."
+  },
+  "ALENA'S LAB KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "home kitchen",
+      "homemade"
+    ],
+    "description": "Home kitchen business in Wilmington with limited available details."
+  },
+  "ALLEN'S BALIWAG SPECIAL CHI": {
+    "business_type": "Filipino",
+    "cuisine_tags": [
+      "filipino",
+      "lechon",
+      "bbq"
+    ],
+    "description": "Filipino food featuring Baliwag lechon manok, liempo, BBQ, and more."
+  },
+  "ALMUERZO CASERO": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "latin",
+      "almuerzo",
+      "homestyle"
+    ],
+    "description": "Homestyle Latin American lunch meals served from a home kitchen."
+  },
+  "AMBER KITCHEN": {
+    "business_type": "Breakfast/Brunch",
+    "cuisine_tags": [
+      "brunch",
+      "coffee",
+      "lunch"
+    ],
+    "description": "Kitchen and coffee spot offering brunch and lunch fare in Alhambra."
+  },
+  "ANDRES S FERNANDEZ LLC": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "grilled cheese",
+      "bar food",
+      "sandwiches"
+    ],
+    "description": "Operates as The 805 Bar & Grilled Cheese offering sandwiches."
+  },
+  "ANGEL CITY DUMPLING CO.": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "dumplings",
+      "fusion",
+      "shawarma"
+    ],
+    "description": "Fusion dumplings filled with chicken shawarma, basmati rice, and hummus."
+  },
+  "ANGRY BULL BBQ": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "brisket",
+      "ribs"
+    ],
+    "description": "Smoked BBQ meats including brisket, ribs, chicken, and classic sides."
+  },
+  "ANITA BAKERY": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bakery",
+      "cookies",
+      "mooncakes"
+    ],
+    "description": "Small bakery offering made-to-order cookies, mooncakes, and baking classes."
+  },
+  "ANTOJITOS M.X. Y MAS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "antojitos",
+      "comfort food"
+    ],
+    "description": "Mexican antojitos and more with vegan and gluten-free options available."
+  },
+  "ARUSUVAI INDIAN CUISINE": {
+    "business_type": "Indian/South Asian",
+    "cuisine_tags": [
+      "indian",
+      "north indian",
+      "south indian"
+    ],
+    "description": "Authentic North and South Indian cuisine prepared by an experienced chef."
+  },
+  "ASADOS TO GO": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "asado",
+      "bbq",
+      "mexican"
+    ],
+    "description": "Mexican-style BBQ asados served to go on weekends in Sylmar."
+  },
+  "BAILEYS N' MORE": {
+    "business_type": "Nigerian/West African",
+    "cuisine_tags": [
+      "nigerian",
+      "fusion",
+      "organic"
+    ],
+    "description": "Nigerian-intercontinental fusion cuisine with organic, non-GMO healthy meals."
+  },
+  "BAKE N' BLOOM": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bakery",
+      "cakes",
+      "gifts"
+    ],
+    "description": "Handcrafted cakes and baked gift items beautifully packaged for any occasion."
+  },
+  "BAOBAO BREAD": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bread",
+      "bao",
+      "asian bakery"
+    ],
+    "description": "Home bakery in San Gabriel specializing in bread and bao products."
+  },
+  "BARRIO BITES LLC": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "barbacoa",
+      "street food"
+    ],
+    "description": "Mexican street food bites featuring barbacoa from a Pacoima home kitchen."
+  },
+  "BAYLEI'S COMFORT KITCHEN": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "home dining",
+      "chef"
+    ],
+    "description": "In-home comfort dining experience run by professional Chef Baylei Yancey."
+  },
+  "BENDER'S EAT WELL": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "sandwiches",
+      "wraps",
+      "healthy"
+    ],
+    "description": "Serves sandwiches, wraps, and wholesome meals in San Pedro."
+  },
+  "BIG MARKET LAMB SOUP": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "lamb soup",
+      "chinese",
+      "halal"
+    ],
+    "description": "Serves lamb soup and related dishes from a Rowland Heights home kitchen."
+  },
+  "BIRRIERIA LOS YAQUIS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "birria",
+      "mexican",
+      "stew"
+    ],
+    "description": "Birria specialty restaurant serving traditional Mexican birria in Norwalk."
+  },
+  "BNB BBQ SERVICES (BRISKET &": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "brisket",
+      "smoked meats"
+    ],
+    "description": "BBQ service specializing in brisket and smoked meats in Montrose."
+  },
+  "BODEGACAT LA": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "bodega",
+      "los angeles",
+      "neighborhood"
+    ],
+    "description": "Los Angeles bodega-style food concept with a neighborhood feel."
+  },
+  "BOND APPETITO": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "italian",
+      "homemade",
+      "appetito"
+    ],
+    "description": "Artisan food business likely offering Italian-inspired homemade cuisine."
+  },
+  "BOUGIE BOARDS LA": {
+    "business_type": "Charcuterie/Boards",
+    "cuisine_tags": [
+      "charcuterie",
+      "grazing tables",
+      "events"
+    ],
+    "description": "Gourmet charcuterie boards and grazing tables with premium ingredients and florals."
+  },
+  "BUBBAS BITES": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "snacks",
+      "bites",
+      "comfort food"
+    ],
+    "description": "Serves casual comfort bites and snack-style food in Walnut."
+  },
+  "CAFE TUMBADO": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "oaxacan",
+      "latina-owned"
+    ],
+    "description": "Latina-owned home cafe serving Oaxacan coffee, horchata lattes, and specialty drinks."
+  },
+  "CAJUN FLARE": {
+    "business_type": "Seafood",
+    "cuisine_tags": [
+      "cajun",
+      "seafood boil",
+      "gumbo"
+    ],
+    "description": "Authentic Cajun comfort food including seafood boils, gumbo, jambalaya, and beignets."
+  },
+  "CARNITAS EL BIGOTON BECERR": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "carnitas",
+      "pork"
+    ],
+    "description": "Home kitchen serving carnitas and traditional Mexican pork dishes."
+  },
+  "CAROL C EVENTS": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "catering",
+      "events",
+      "party food"
+    ],
+    "description": "Event catering service for parties, picnics, and private gatherings."
+  },
+  "CAT'S OUT THE BAG": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "pet food",
+      "homemade"
+    ],
+    "description": "Home kitchen likely specializing in homemade pet food or treats."
+  },
+  "CHARCUTERIE ART CART LLC": {
+    "business_type": "Charcuterie/Boards",
+    "cuisine_tags": [
+      "charcuterie",
+      "grazing boards",
+      "entertaining"
+    ],
+    "description": "Artisan charcuterie boards and grazing cart service in San Pedro."
+  },
+  "CHEESECAKE DE GRANGER": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "cheesecake",
+      "desserts",
+      "bakery"
+    ],
+    "description": "Home kitchen specializing in cheesecakes and desserts in Inglewood."
+  },
+  "CHEF C-NOTES CREATIONS": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "chef",
+      "creative",
+      "homemade"
+    ],
+    "description": "Home kitchen offering creative chef-driven culinary creations."
+  },
+  "CHEF GLENDA GOODNESS": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "chef",
+      "comfort food"
+    ],
+    "description": "Chef-driven home kitchen offering wholesome homemade dishes in Palmdale."
+  },
+  "CHEF TOBIN'S PLANT BASED KI": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "plant-based",
+      "vegan",
+      "healthy"
+    ],
+    "description": "Plant-based home kitchen serving vegan meals in Granada Hills."
+  },
+  "CHEZ FATOUMATA": {
+    "business_type": "Nigerian/West African",
+    "cuisine_tags": [
+      "west african",
+      "senegalese",
+      "homemade"
+    ],
+    "description": "West African home kitchen serving traditional dishes in Los Angeles."
+  },
+  "CHI TOWN PIZZA": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "pizza",
+      "chicago-style",
+      "deep dish"
+    ],
+    "description": "Chicago-style pizza made from a home kitchen in Glendora."
+  },
+  "CHICAGO MEATS LA": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "meats",
+      "chicago-style",
+      "deli"
+    ],
+    "description": "Chicago-style meats and deli sandwiches from a home kitchen."
+  },
+  "CHUCHU DESSERT LAB": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "desserts",
+      "sweets",
+      "lab"
+    ],
+    "description": "Creative dessert lab offering unique sweet treats in Los Angeles."
+  },
+  "CINEMA CHOW": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "meal prep",
+      "homemade",
+      "comfort food"
+    ],
+    "description": "Home kitchen offering homemade meals and comfort food in Santa Clarita."
+  },
+  "CLUB 051": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "comfort food"
+    ],
+    "description": "Home kitchen in Woodland Hills offering prepared meals and snacks."
+  },
+  "COACH'S": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "homemade",
+      "healthy"
+    ],
+    "description": "Health-focused home kitchen serving wholesome comfort food in Granada Hills."
+  },
+  "COFFEE AND TOAST": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "toast",
+      "breakfast"
+    ],
+    "description": "Coffee and toast home kitchen offering beverages and light bites."
+  },
+  "CORAZON COFFEE AND PASTRI": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "pastries",
+      "bakery"
+    ],
+    "description": "Weekly coffee and pastry drops from a home kitchen in South Gate."
+  },
+  "CRAZY TASTY": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "creative",
+      "comfort food"
+    ],
+    "description": "Home kitchen offering creative and tasty homemade dishes in LA."
+  },
+  "CREOLE DELIGHT HAITIAN": {
+    "business_type": "Caribbean",
+    "cuisine_tags": [
+      "haitian",
+      "creole",
+      "caribbean"
+    ],
+    "description": "Haitian Creole home kitchen serving traditional Caribbean dishes in LA."
+  },
+  "CUBAMEXICO": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "cuban",
+      "mexican",
+      "fusion"
+    ],
+    "description": "Cuban-Mexican fusion home kitchen serving Latin dishes in South Gate."
+  },
+  "CUDAHY HOME FLAVOR": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "homemade",
+      "comfort food"
+    ],
+    "description": "Home-cooked Mexican comfort food prepared by Chef Diana Gaytan."
+  },
+  "DA BARBARA": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "italian",
+      "fine dining",
+      "pasta"
+    ],
+    "description": "Italian home kitchen by Chef Barbara Pollastrini blending tradition and innovation."
+  },
+  "DARIA PODDUBNIAK": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "eastern european",
+      "authentic"
+    ],
+    "description": "Authentic homemade dishes from a home kitchen in Valley Village."
+  },
+  "DEDDY'S VIBE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "cafe",
+      "comfort food",
+      "vibes"
+    ],
+    "description": "Home kitchen offering flavorful comfort food in Los Angeles."
+  },
+  "DELICIA PURA": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "latin",
+      "homemade",
+      "delicacies"
+    ],
+    "description": "Home kitchen serving Latin American delicacies in Los Angeles."
+  },
+  "DELICIAS SARITA FOOD": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "latin",
+      "homemade",
+      "comfort food"
+    ],
+    "description": "Home kitchen serving homemade Latin comfort food in Downey."
+  },
+  "DEVON EATS": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "meal prep"
+    ],
+    "description": "Home kitchen offering prepared meals and eats in Los Angeles."
+  },
+  "DOLCE TESORI": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "desserts",
+      "sweets",
+      "italian"
+    ],
+    "description": "Italian-inspired sweet treats and desserts from a home kitchen in Tujunga."
+  },
+  "DON'T YOU DAIRY": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "dairy-free",
+      "vegan",
+      "plant-based"
+    ],
+    "description": "Dairy-free home kitchen offering plant-based meals and fish fry options."
+  },
+  "DULCE SORPRESA Y MAS": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "sweets",
+      "desserts",
+      "gifts"
+    ],
+    "description": "Home kitchen offering sweet treats and surprise dessert gifts in Palmdale."
+  },
+  "EAST BRITISH CURRY COMPAN": {
+    "business_type": "Indian/South Asian",
+    "cuisine_tags": [
+      "british",
+      "curry",
+      "indian"
+    ],
+    "description": "Serves British-style curry dishes from a home kitchen."
+  },
+  "EDIBLE KIDS ART": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "kids",
+      "edible art",
+      "treats"
+    ],
+    "description": "Creates edible art and treats designed for kids."
+  },
+  "EL PATIO CAFE": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "fusion",
+      "cafe"
+    ],
+    "description": "Cafe offering authentic Mexican cuisine and fusion fare with breakfast and lunch."
+  },
+  "ERKITCHEN.COM": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "kitchen"
+    ],
+    "description": "Home kitchen business offering prepared meals."
+  },
+  "FAT DOG SOCIAL": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "hot dogs",
+      "comfort food"
+    ],
+    "description": "Serves hot dogs and casual comfort food from a home kitchen."
+  },
+  "FAVOR&FLAVOR AFRIQ LLC": {
+    "business_type": "Nigerian/West African",
+    "cuisine_tags": [
+      "african",
+      "fusion",
+      "spices"
+    ],
+    "description": "Blends authentic African spices with Western cuisine for flavorful meals."
+  },
+  "FAWZAI BAKES": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "afghani",
+      "kebab",
+      "biryani"
+    ],
+    "description": "Offers Afghani homemade dishes like chicken kebab and lamb biryani."
+  },
+  "FENG MING DELICIOUS, INC": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homemade"
+    ],
+    "description": "Chinese home kitchen business based in Walnut."
+  },
+  "FLOCAL KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "local",
+      "kitchen",
+      "homemade"
+    ],
+    "description": "Home kitchen offering locally inspired prepared meals."
+  },
+  "FRANCESCA MALLUS CHEF": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "chef",
+      "private dining",
+      "catering"
+    ],
+    "description": "Private chef offering at-home dining experiences and catering in Torrance."
+  },
+  "FREE TO CHAT FIZZY": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "beverages",
+      "fizzy",
+      "healthy"
+    ],
+    "description": "Serves healthy beverages and fizzy drinks with diverse menu options."
+  },
+  "FRENICAN BAKES": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "organic",
+      "sugar-free",
+      "cookies"
+    ],
+    "description": "All-organic sugar-free premium bakery specializing in superfood cookies."
+  },
+  "FRESH FRUIT BY RUTH": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "fresh fruit",
+      "snacks",
+      "healthy"
+    ],
+    "description": "Sells fresh fruit and healthy snack options in Huntington Park."
+  },
+  "FRIED TACO CO": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tacos",
+      "fried",
+      "chilaquiles"
+    ],
+    "description": "Specializes in fried tacos and chilaquiles in Pico Rivera."
+  },
+  "FRIZZLES": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "snacks",
+      "homemade"
+    ],
+    "description": "Home kitchen business offering homemade food in Los Angeles."
+  },
+  "FULL TILT BBQ": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "american",
+      "smoked meat"
+    ],
+    "description": "Serves American-style BBQ and smoked meats from a home kitchen."
+  },
+  "FUNDACION SONRIAS LATINAS": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "latin",
+      "community",
+      "homemade"
+    ],
+    "description": "Latin-inspired home kitchen operated by a Latina community organization."
+  },
+  "GAMMA TAMALES": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tamales",
+      "mexican",
+      "homemade"
+    ],
+    "description": "Specializes in homemade traditional Mexican tamales."
+  },
+  "GANCIA'S CRAFT KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "craft",
+      "homemade",
+      "artisan"
+    ],
+    "description": "Artisan craft kitchen offering homemade prepared meals."
+  },
+  "GARDEN OF EDENDALE": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "garden",
+      "fresh",
+      "healthy"
+    ],
+    "description": "Offers fresh garden-inspired meals in Los Angeles."
+  },
+  "GERAS_KOCINA": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "burritos",
+      "guisado"
+    ],
+    "description": "Serves burritos de guisado and traditional Mexican homemade dishes."
+  },
+  "GERTIE'S SWEET DELIGHTS": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "desserts",
+      "sweets",
+      "gluten-free"
+    ],
+    "description": "Creates sweet desserts including gluten-free treats and mascarpone delights."
+  },
+  "GEZHONG GEYANG DE TIANDIA": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "desserts",
+      "sweets"
+    ],
+    "description": "Offers Chinese sweets and desserts from a home kitchen in Torrance."
+  },
+  "GM COFFEE CO": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "beverages"
+    ],
+    "description": "Home-based coffee company serving specialty coffee drinks."
+  },
+  "GOLDEN GASTRONOME": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "gourmet",
+      "homemade"
+    ],
+    "description": "Gourmet home kitchen offering refined prepared meals in Northridge."
+  },
+  "GORDITAS LAGUNERAS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "gorditas",
+      "mexican",
+      "traditional"
+    ],
+    "description": "Serves traditional Mexican gorditas and discada from a home kitchen."
+  },
+  "GPC": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "kitchen"
+    ],
+    "description": "Home kitchen business in Chatsworth offering prepared food."
+  },
+  "GRANADA": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "kebab",
+      "mediterranean",
+      "hummus"
+    ],
+    "description": "Serves kebab plates, hummus, and basmati rice with Middle Eastern flavors."
+  },
+  "GUILLE'S KITCHEN": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "homemade"
+    ],
+    "description": "Home kitchen serving homemade Mexican food in Littlerock."
+  },
+  "GUOJIE JIA WEI XUAN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homemade",
+      "home-style"
+    ],
+    "description": "Offers traditional Chinese home-style cooking from a kitchen in Alhambra."
+  },
+  "HAMPY BREAD": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bread",
+      "baked goods"
+    ],
+    "description": "Home bakery specializing in handmade bread products."
+  },
+  "HAPPY COUPLE KITCHEN": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food"
+    ],
+    "description": "Home kitchen offering homestyle comfort food in Palmdale."
+  },
+  "HAPPY RETURN DUMPLINGS AN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "dumplings",
+      "handmade"
+    ],
+    "description": "Handmade Chinese dumplings prepared from a home kitchen in Walnut."
+  },
+  "HEFAN HOME KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "home cooking"
+    ],
+    "description": "Home kitchen serving Chinese home-cooked meals in Carson."
+  },
+  "HEVN & RTH PURPOSE KCHN": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "meal prep",
+      "juices",
+      "healthy"
+    ],
+    "description": "Purpose-driven kitchen offering pre-order meals and fresh juices."
+  },
+  "HIBISCUS & WATERMELON": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "juneteenth",
+      "soul food",
+      "bbq"
+    ],
+    "description": "Soul food inspired by Juneteenth traditions with watermelon, barbecue, and red dishes."
+  },
+  "HOLLYWOOD NOSH": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "eclectic",
+      "los angeles"
+    ],
+    "description": "Eclectic Los Angeles home kitchen offering diverse prepared foods."
+  },
+  "HOME KITCHEN": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homemade",
+      "comfort food"
+    ],
+    "description": "Affordable homemade comfort food from a West Covina home kitchen."
+  },
+  "HOME TABLE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "rowland heights"
+    ],
+    "description": "Home-cooked meals served from a Rowland Heights kitchen."
+  },
+  "HOMECOOKED BY KP": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homemade",
+      "comfort food",
+      "traditional"
+    ],
+    "description": "Flavorful homemade comfort food prepared with care and tradition."
+  },
+  "HOMESTYLE BITES": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "homestyle",
+      "japanese",
+      "comfort food"
+    ],
+    "description": "Homestyle bites inspired by Japanese comfort food like Nikujaga."
+  },
+  "HUI'S EXQUISITELY HAND MAD": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "handmade",
+      "chinese",
+      "noodles"
+    ],
+    "description": "Exquisitely handmade Chinese noodles or dumplings from El Monte."
+  },
+  "IBING BING": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "rice noodles",
+      "luosifen"
+    ],
+    "description": "Chinese rice noodles and Guangxi-style dishes from Rowland Heights."
+  },
+  "J TAN HOME KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "asian",
+      "home cooking"
+    ],
+    "description": "Asian home kitchen serving Chinese-inspired dishes in Monterey Park."
+  },
+  "JACKRABBIT'S LAIR": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "pop-up",
+      "dinner events",
+      "eclectic"
+    ],
+    "description": "Pop-up dinner events and catering from a Los Angeles home kitchen."
+  },
+  "JAJAH OMAH": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "indonesian",
+      "pandan",
+      "cake"
+    ],
+    "description": "Indonesian-inspired bakery known for pandan chiffon cake and treats."
+  },
+  "JANET'S HOME COOKING": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "home cooking",
+      "comfort food"
+    ],
+    "description": "Homestyle cooking and comfort meals from a Beverly Hills kitchen."
+  },
+  "JANZEN'S HILLSIDE TABLE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "hillside"
+    ],
+    "description": "Hillside home kitchen serving homestyle meals in Castaic."
+  },
+  "JDAWGZ EATZ LLC": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "soul food",
+      "comfort food"
+    ],
+    "description": "Soul food kitchen serving comfort meals in La Mirada."
+  },
+  "JENNIFER SILBERT": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "eclectic",
+      "los angeles"
+    ],
+    "description": "Creative home kitchen offering eclectic dishes in Los Angeles."
+  },
+  "JERO'S ANTOJITOS MEXICANOS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "antojitos",
+      "street food"
+    ],
+    "description": "Traditional Mexican antojitos and street food in Los Angeles."
+  },
+  "JP BBQ INC": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "smoked meats"
+    ],
+    "description": "BBQ home kitchen specializing in smoked and grilled meats."
+  },
+  "JUS BRISKET": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "brisket",
+      "bbq",
+      "smoked"
+    ],
+    "description": "Juicy smoked brisket with 20 years of cooking expertise."
+  },
+  "KAFOU ALKALINE FOODS": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "alkaline",
+      "plant-based",
+      "healthy"
+    ],
+    "description": "Alkaline and plant-based food offerings in Los Angeles."
+  },
+  "KARAK CORNER": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "karak",
+      "chai",
+      "tea"
+    ],
+    "description": "Karak chai and specialty tea beverages from Northridge."
+  },
+  "KDC HOSPITALITY GROUP LLC": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "hospitality",
+      "catering"
+    ],
+    "description": "Hospitality group offering catered food services in Los Angeles."
+  },
+  "KERALA": {
+    "business_type": "Indian/South Asian",
+    "cuisine_tags": [
+      "indian",
+      "kerala",
+      "south indian"
+    ],
+    "description": "South Indian Kerala-style cuisine served from a Gardena home kitchen."
+  },
+  "KEREN 504 FRUITS": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "fresh fruit",
+      "fruit cups",
+      "beverages"
+    ],
+    "description": "Fresh fruit cups and fruit-based beverages in Los Angeles."
+  },
+  "KINDRED TOFFEE X GSOUL MIN": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "toffee",
+      "sweets",
+      "confections"
+    ],
+    "description": "Artisan toffee and sweet confections from a Los Angeles kitchen."
+  },
+  "KRISHNAVENI BHOLANATH": {
+    "business_type": "Indian/South Asian",
+    "cuisine_tags": [
+      "indian",
+      "jamaican",
+      "fusion"
+    ],
+    "description": "Indian-Jamaican fusion cuisine from a regenerative zero-waste home kitchen."
+  },
+  "KRYBABY CAKES & CARDS": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "cakes",
+      "bakery",
+      "custom"
+    ],
+    "description": "Home bakery offering custom cakes and greeting cards."
+  },
+  "LA BELLE BAGUETTE": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "french",
+      "baguette",
+      "sandwiches"
+    ],
+    "description": "French-style baguette sandwiches made with fresh local ingredients."
+  },
+  "LA LA HAPPY KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "asian",
+      "home kitchen"
+    ],
+    "description": "Home kitchen in South El Monte offering Asian-inspired dishes."
+  },
+  "LA SHUNXING": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homestyle"
+    ],
+    "description": "Chinese homestyle cooking likely specializing in Shunxing regional dishes."
+  },
+  "LA SINALOENSE CABEZA DE RE": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "sinaloan",
+      "cabeza"
+    ],
+    "description": "Sinaloan-style Mexican food specializing in cabeza de res tacos."
+  },
+  "LAKAY FLAVORS": {
+    "business_type": "Caribbean",
+    "cuisine_tags": [
+      "haitian",
+      "caribbean",
+      "ice cream"
+    ],
+    "description": "Haitian-inspired tropical flavors and Caribbean food offerings."
+  },
+  "LAMB HOUSE GRILL": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "lamb",
+      "grill",
+      "mediterranean"
+    ],
+    "description": "Mediterranean-style grilled lamb, chicken, and beef with pita and sides."
+  },
+  "LAS CHANGAS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "weekend",
+      "authentic"
+    ],
+    "description": "Authentic Mexican food served on weekends until sold out."
+  },
+  "LASAGNE DI CATANIA": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "italian",
+      "lasagna",
+      "sicilian"
+    ],
+    "description": "Italian lasagna inspired by Catania, Sicily traditions."
+  },
+  "LAYERED ICE CREAM PIES": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "ice cream",
+      "pie",
+      "desserts"
+    ],
+    "description": "Layered ice cream pies in creative and classic flavors."
+  },
+  "LEMME SMASH BURGER": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "smash burgers",
+      "burgers"
+    ],
+    "description": "Smash-style burgers made from a home kitchen in Los Angeles."
+  },
+  "LEZA": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "mediterranean",
+      "catering",
+      "pastry"
+    ],
+    "description": "California-fresh Mediterranean food, pastries, and event catering."
+  },
+  "LIANGPI HOUSE": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "liangpi",
+      "noodles"
+    ],
+    "description": "Chinese cold skin noodles (liangpi) and traditional street food."
+  },
+  "LITTLE CITY FARM": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "organic",
+      "farm",
+      "sustainable"
+    ],
+    "description": "Organic urban farm offering sustainable, zero-waste food and recipes."
+  },
+  "LITUCHO'S GRILL": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "grill",
+      "latin",
+      "plates"
+    ],
+    "description": "Latin American-inspired grilled plates and home-cooked meals."
+  },
+  "LIV'S LUMPIAS": {
+    "business_type": "Filipino",
+    "cuisine_tags": [
+      "filipino",
+      "lumpia",
+      "spring rolls"
+    ],
+    "description": "Filipino lumpia (spring rolls) made fresh from a home kitchen."
+  },
+  "LOMO FUEGO-PERUVIAN FOOD": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "peruvian",
+      "lomo saltado",
+      "fuego"
+    ],
+    "description": "Peruvian food featuring lomo saltado and other traditional dishes."
+  },
+  "LONG' STYLE": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homestyle"
+    ],
+    "description": "Chinese homestyle cooking from a Rosemead home kitchen."
+  },
+  "LOSNOOYADO": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "japanese",
+      "soba",
+      "wagashi"
+    ],
+    "description": "Handmade soba noodles and wagashi Japanese sweets from a home kitchen."
+  },
+  "LUCKY'S PLACE": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "burgers",
+      "american",
+      "gourmet"
+    ],
+    "description": "Gourmet burgers and all-American classic comfort food."
+  },
+  "LUSCIOUS TIERRA": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "home kitchen"
+    ],
+    "description": "Home kitchen business in Los Angeles offering homestyle meals."
+  },
+  "LUVMI CHARCUTERIE": {
+    "business_type": "Charcuterie/Boards",
+    "cuisine_tags": [
+      "charcuterie",
+      "boards",
+      "grazing"
+    ],
+    "description": "Custom charcuterie and grazing boards for events and gatherings."
+  },
+  "MAMA CHILA": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "homestyle"
+    ],
+    "description": "Homestyle Mexican cooking inspired by traditional family recipes."
+  },
+  "MAMA GLENDAS": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "homestyle"
+    ],
+    "description": "Homestyle comfort cooking from a Compton home kitchen."
+  },
+  "MAMA'S COOKING": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food",
+      "cooked meats"
+    ],
+    "description": "Homestyle comfort cooking with hearty cooked meats and classic dishes."
+  },
+  "MAMMA NICOLE'S GARDEN GOO": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "garden",
+      "organic",
+      "healthy"
+    ],
+    "description": "Garden-fresh healthy goods and wholesome homemade food."
+  },
+  "MAM'S KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "home kitchen"
+    ],
+    "description": "Home kitchen offering homestyle family meals in Burbank."
+  },
+  "MANFU SNACK": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "snacks",
+      "street food"
+    ],
+    "description": "Chinese snacks and street food from a Rowland Heights home kitchen."
+  },
+  "MANGIA AT HOME LLC": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "italian",
+      "homemade",
+      "mangia"
+    ],
+    "description": "Italian homemade meals and dishes for at-home dining."
+  },
+  "MANNGE CHIX": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "chicken",
+      "home kitchen"
+    ],
+    "description": "Home kitchen specializing in chicken dishes in Reseda."
+  },
+  "MARDIROSIAN PRODUCTION IN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "armenian",
+      "home kitchen",
+      "glendale"
+    ],
+    "description": "Armenian home kitchen food production based in Glendale."
+  },
+  "MARIA AND CLAUDIO JIMENEZ": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "home cooking"
+    ],
+    "description": "Mexican home-cooked meals prepared in Woodland Hills."
+  },
+  "MARJAN COOKERY": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "persian",
+      "cookery",
+      "home kitchen"
+    ],
+    "description": "Persian home cookery serving homemade meals in Woodland Hills."
+  },
+  "MARTHA'S TACOS AND MEXICA": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "Mexican home kitchen specializing in tacos and traditional Mexican food."
+  },
+  "MA'S OASIS": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "home cooking"
+    ],
+    "description": "Home kitchen serving comforting homemade meals in El Monte."
+  },
+  "MASTERPIECE KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "american",
+      "eclectic",
+      "restaurant"
+    ],
+    "description": "Home kitchen offering creative prepared meals in San Gabriel."
+  },
+  "MAURITIAN STREET FOOD": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "mauritian",
+      "street food",
+      "multicultural"
+    ],
+    "description": "Traditional Mauritian street food including dholl puri and boulettes."
+  },
+  "MEAT DISTRICT": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "meat",
+      "cured meats",
+      "charcuterie"
+    ],
+    "description": "Specialty meat and cured meat products based in Los Angeles."
+  },
+  "MEDITERRANEAN HOME KITCH": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "mediterranean",
+      "home kitchen"
+    ],
+    "description": "Mediterranean home kitchen serving homemade dishes in Redondo Beach."
+  },
+  "MEHKO KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "meals",
+      "snacks",
+      "fruit"
+    ],
+    "description": "Home kitchen offering personalized meals, snacks, and fruit packages in Inglewood."
+  },
+  "MEI LIN'S KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "home cooking"
+    ],
+    "description": "Chinese home kitchen serving homemade dishes in Hacienda Heights."
+  },
+  "MEXIQ": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "fusion"
+    ],
+    "description": "Mexican cuisine home kitchen based in Castaic."
+  },
+  "MICHIS LEMONADE COMPANYL": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "lemonade",
+      "beverages"
+    ],
+    "description": "Lemonade company offering fresh handmade lemonade beverages in Norwalk."
+  },
+  "MIDEAST EATS": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "palestinian",
+      "halal",
+      "vegan"
+    ],
+    "description": "Authentic Palestinian cuisine with halal and vegan options in Watts."
+  },
+  "MILKSHAKE": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "milkshakes",
+      "beverages"
+    ],
+    "description": "Home kitchen specializing in milkshakes in Los Angeles."
+  },
+  "MINON CAKE": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "cakes",
+      "asian bakery",
+      "durian"
+    ],
+    "description": "Specialty cake shop offering creative Asian-style cakes in Rowland Heights."
+  },
+  "MI-RI YVONNE": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "korean",
+      "home cooking"
+    ],
+    "description": "Korean home kitchen serving homemade dishes in Sherman Oaks."
+  },
+  "MISTI'S HOUSE (PERUVIAN STY": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "peruvian",
+      "home cooking"
+    ],
+    "description": "Peruvian-style home kitchen serving traditional dishes in Van Nuys."
+  },
+  "MONTERO YOGURT": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "yogurt",
+      "desserts"
+    ],
+    "description": "Yogurt-based desserts and treats from South El Monte."
+  },
+  "MR RYONG'S ARTIST'S RICE": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "korean",
+      "rice bowls"
+    ],
+    "description": "Korean-inspired artisan rice dishes served in Los Angeles."
+  },
+  "MY KUZNA": {
+    "business_type": "Filipino",
+    "cuisine_tags": [
+      "filipino",
+      "cavite\u00f1o",
+      "home cooking"
+    ],
+    "description": "Authentic Cavite\u00f1o Filipino dishes bringing back flavors from home."
+  },
+  "N. DIET": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "diet",
+      "healthy",
+      "meal prep"
+    ],
+    "description": "Health-focused diet meal preparation service in Panorama City."
+  },
+  "NAPO PIZZA, LLC": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "pizza"
+    ],
+    "description": "Home kitchen pizza operation based in Northridge."
+  },
+  "NAWAL": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "syrian",
+      "circassian",
+      "middle eastern"
+    ],
+    "description": "Syrian cooking through a Circassian lens served at pop-ups in LA."
+  },
+  "NEIGHBORHOOD COFFEE": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "espresso",
+      "cold brew"
+    ],
+    "description": "Specialty coffee shop offering espresso, pour overs, and cold brew."
+  },
+  "NIA'S TABLE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "home cooking",
+      "meals"
+    ],
+    "description": "Home kitchen serving prepared meals and catering in Los Angeles."
+  },
+  "NICOLASA'S KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "basque",
+      "home cooking"
+    ],
+    "description": "Home kitchen serving Basque-inspired homemade cuisine in Los Angeles."
+  },
+  "NIKKIMOMO": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "home kitchen"
+    ],
+    "description": "Home kitchen food business operating in Los Angeles."
+  },
+  "NO BRAND": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "japanese",
+      "korean",
+      "gardena"
+    ],
+    "description": "Japanese or Korean home kitchen operating in Gardena."
+  },
+  "NOODLE GIRL": {
+    "business_type": "Vietnamese",
+    "cuisine_tags": [
+      "vietnamese",
+      "noodles",
+      "rice bowls"
+    ],
+    "description": "Vietnamese noodle and rice bowls with fresh healthy ingredients."
+  },
+  "NOT YO MAMA'S TACOS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "tacos",
+      "catering"
+    ],
+    "description": "Fresh-made tacos and Mexican food with catering services."
+  },
+  "NOT YOUR MOM'S PIES": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "italian",
+      "pies",
+      "homemade"
+    ],
+    "description": "Homemade authentic Italian pies and food."
+  },
+  "NOURISHED ROOTS": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "healthy",
+      "bowls",
+      "fresh"
+    ],
+    "description": "Healthy meal bowls made with fresh ingredients for every taste."
+  },
+  "NOURISOUP": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "soup",
+      "herbal",
+      "wellness"
+    ],
+    "description": "Herbal functional soups crafted for wellness in every jar."
+  },
+  "OK DUCK": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "duck",
+      "dim sum"
+    ],
+    "description": "Chinese restaurant featuring roast duck and dim sum."
+  },
+  "OMAR'S TACOS": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "tacos",
+      "affordable"
+    ],
+    "description": "Affordable Mexican tacos and related dishes."
+  },
+  "ONGGI JONGGI": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "korean",
+      "cakes",
+      "custom"
+    ],
+    "description": "Korean-inspired custom cakes baked by a home baker mom."
+  },
+  "OTTI'S": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "food"
+    ],
+    "description": "Home kitchen food business in Los Angeles."
+  },
+  "OUR LADY OF SHALLOT": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homemade",
+      "food"
+    ],
+    "description": "Home kitchen food business in Los Angeles."
+  },
+  "PACAELI SERVICES": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "catering",
+      "delivery",
+      "food service"
+    ],
+    "description": "Food delivery and catering services in Harbor City."
+  },
+  "PARKER HOUSE DELIGHTS": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "baked goods",
+      "homemade",
+      "delights"
+    ],
+    "description": "Homemade baked delights and house specialties."
+  },
+  "PIES IN THE SKY": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "pizza",
+      "pies",
+      "homemade"
+    ],
+    "description": "Homemade dough pizzas topped with fresh, perfectly seasoned ingredients."
+  },
+  "PILI PILI DE CONGO": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "congolese",
+      "african",
+      "spicy"
+    ],
+    "description": "Congolese cuisine featuring pili-pili pepper dishes and African flavors."
+  },
+  "PINKELICIOUS BY CHEF MYLEN": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "catering",
+      "filipino",
+      "events"
+    ],
+    "description": "Catering service by Chef Mylene creating food magic for special events."
+  },
+  "POP JERK": {
+    "business_type": "Caribbean",
+    "cuisine_tags": [
+      "caribbean",
+      "jerk",
+      "jamaican"
+    ],
+    "description": "Caribbean-style jerk food pop-up in Los Angeles."
+  },
+  "QUDSIA'S": {
+    "business_type": "Indian/South Asian",
+    "cuisine_tags": [
+      "south asian",
+      "homemade",
+      "halal"
+    ],
+    "description": "South Asian homemade food inspired by traditional recipes."
+  },
+  "RAFNROLL": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "food",
+      "homemade"
+    ],
+    "description": "Home kitchen food business in Glendale."
+  },
+  "RAILROAD RESTAURANT": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "homestyle",
+      "restaurant"
+    ],
+    "description": "Homestyle comfort food restaurant in Littlerock."
+  },
+  "RASPADOS ESTILO TONALA, JA": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "raspados",
+      "mexican ice",
+      "fruit"
+    ],
+    "description": "Traditional Mexican-style raspados and frozen fruit treats from Tonala."
+  },
+  "RASPADOS NATURALES": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "raspados",
+      "natural",
+      "fruit"
+    ],
+    "description": "Natural fruit raspados and refreshing frozen treats."
+  },
+  "RED DRAGON LOUNGE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "lounge",
+      "bar",
+      "drinks"
+    ],
+    "description": "Lounge-style food and drinks experience in Los Angeles."
+  },
+  "RED EYE CAFE": {
+    "business_type": "Breakfast/Brunch",
+    "cuisine_tags": [
+      "cafe",
+      "coffee",
+      "brunch"
+    ],
+    "description": "Cafe serving croissants, burritos, coffee, and brunch fare."
+  },
+  "RENAISSANCE SOUTH LA INC": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "community",
+      "food",
+      "los angeles"
+    ],
+    "description": "Community-focused food business in South Los Angeles."
+  },
+  "RENI COFFEE": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "beverages"
+    ],
+    "description": "Coffee shop serving fresh brewed coffee and beverages."
+  },
+  "ROLLI BAKEHOUSE": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bakery",
+      "rolls",
+      "baked goods"
+    ],
+    "description": "Home bakehouse offering freshly baked rolls and goods."
+  },
+  "ROYAL HOME DELI": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "deli",
+      "homemade",
+      "chinese"
+    ],
+    "description": "Home deli offering prepared foods in Rowland Heights."
+  },
+  "RUBIE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "pop-up",
+      "food events",
+      "los angeles"
+    ],
+    "description": "Pop-up food business participating in LA food events."
+  },
+  "SABOR DE MI TIERRA": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "latin",
+      "homestyle",
+      "traditional"
+    ],
+    "description": "Traditional homestyle Latin American food with authentic flavors."
+  },
+  "SABOR MEXICO HOMEMADE": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "homemade",
+      "traditional"
+    ],
+    "description": "Homemade Mexican food with fresh tortillas and traditional dishes."
+  },
+  "SABOR PERUANO": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "peruvian",
+      "latin",
+      "gourmet"
+    ],
+    "description": "Peruvian cuisine with gourmet appetizers, mains, and desserts."
+  },
+  "SAHANI DELIGHT KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "kenyan",
+      "grilled meats",
+      "stews"
+    ],
+    "description": "Kenyan comfort food featuring savory stews, grilled meats, and classic Kenyan sides."
+  },
+  "SAVIE BAKE SHOP": {
+    "business_type": "Breakfast/Brunch",
+    "cuisine_tags": [
+      "breakfast burritos",
+      "bakery",
+      "mexican"
+    ],
+    "description": "Bake shop specializing in breakfast burritos with chorizo or sausage."
+  },
+  "SERVE COFFEE + PASTRIES": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "coffee",
+      "pastries",
+      "cafe"
+    ],
+    "description": "Coffee shop and pastry spot serving beverages and baked goods."
+  },
+  "SEVEN PLATES LA": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "multi-course",
+      "plated",
+      "fine dining"
+    ],
+    "description": "Plated multi-course meals with diverse culinary influences in Los Angeles."
+  },
+  "SIMPLY TASTEFULL": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food"
+    ],
+    "description": "Homestyle tasty meals prepared from a home kitchen in Alhambra."
+  },
+  "SMILING ISLANDER": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "sri lankan",
+      "kottu",
+      "street food"
+    ],
+    "description": "Sri Lankan street food specializing in authentic wok-fried kottu with live cooking."
+  },
+  "SMOKE CITY BBQ LA": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "smoked meats",
+      "barbecue"
+    ],
+    "description": "Los Angeles BBQ serving smoked and barbecued meats."
+  },
+  "SMOKE MO'S LA": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "smoked",
+      "mediterranean"
+    ],
+    "description": "Smoked BBQ with Mediterranean-influenced dishes in Van Nuys."
+  },
+  "SMOKED OUT SLIDERS": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "sliders",
+      "smoked",
+      "burgers"
+    ],
+    "description": "Smoked sliders and small burger offerings in Los Angeles."
+  },
+  "SOCAL PIE CO": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "pizza",
+      "wings",
+      "pies"
+    ],
+    "description": "Pizza and buffalo wings with various sauce options in Norwalk."
+  },
+  "SONG'S STUDIO": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "pasadena"
+    ],
+    "description": "Home kitchen business based in Pasadena offering prepared meals."
+  },
+  "SOUL & SPICE": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "soul food",
+      "southern",
+      "comfort"
+    ],
+    "description": "Family-owned soul food kitchen serving Southern comfort dishes in Whittier."
+  },
+  "SQUAT FOX MEAL": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "meal prep",
+      "homestyle"
+    ],
+    "description": "Prepared home meals offered from an Arcadia-based kitchen."
+  },
+  "SSAL&": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "korean",
+      "noodles",
+      "soup"
+    ],
+    "description": "Korean cuisine featuring hot spicy ramen soups and noodle dishes."
+  },
+  "SUMTH' N DELICIOUS": {
+    "business_type": "Caribbean",
+    "cuisine_tags": [
+      "belizean",
+      "jamaican",
+      "caribbean"
+    ],
+    "description": "Belizean and Jamaican Caribbean cuisine served in Palmdale."
+  },
+  "SUP": {
+    "business_type": "Japanese/Korean",
+    "cuisine_tags": [
+      "korean",
+      "chicken",
+      "sandwiches"
+    ],
+    "description": "Korean fusion chicken and sandwiches in Los Angeles."
+  },
+  "SWEET STICKY THANGS": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "sweets",
+      "sticky",
+      "desserts"
+    ],
+    "description": "Homemade sweet and sticky dessert treats in Los Angeles."
+  },
+  "TACO LEGENDZ": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tacos",
+      "mexican"
+    ],
+    "description": "Mexican taco spot serving classic tacos in Downey."
+  },
+  "TACOS EL ARBITRO": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tacos",
+      "quesadillas",
+      "burritos"
+    ],
+    "description": "Mexican street food offering quesatacos, fish and chips, burritos, and quesadillas."
+  },
+  "TACOS EL CHINO": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tacos",
+      "tijuana-style",
+      "mexican"
+    ],
+    "description": "Tijuana-style tacos, burritos, mulitas, and quesadillas in Lancaster."
+  },
+  "TACOS EL PARIENTE DE MAZA": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tacos",
+      "mazatlan",
+      "sinaloa"
+    ],
+    "description": "Mazatl\u00e1n Sinaloa-style tacos served in Compton."
+  },
+  "TAO'S KITCHEN": {
+    "business_type": "Vietnamese",
+    "cuisine_tags": [
+      "vietnamese",
+      "pho",
+      "comfort food"
+    ],
+    "description": "Vietnamese comfort food kitchen known for quality pho in Rosemead."
+  },
+  "TAUROUXS SMASH BURGERS": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "smash burgers",
+      "grass-fed",
+      "burgers"
+    ],
+    "description": "Smash burgers made with grass-fed beef on toasted potato buns."
+  },
+  "TEQUETABLE": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "venezuelan",
+      "brazilian",
+      "south american"
+    ],
+    "description": "South American flavors from Venezuela and Brazil in Playa Vista."
+  },
+  "TERRA TABLE": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "persian",
+      "kebab",
+      "mediterranean"
+    ],
+    "description": "Fresh Mediterranean and Persian dishes including koobideh in Glendale."
+  },
+  "THAI RAMA KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "thai",
+      "asian"
+    ],
+    "description": "Thai cuisine prepared from a home kitchen in Glendale."
+  },
+  "THE APRON GUILD": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "organic",
+      "gourmet",
+      "catering"
+    ],
+    "description": "Gourmet home kitchen offering curated culinary creations in Studio City."
+  },
+  "THE BEST KOSHER BURGER": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "kosher",
+      "burgers",
+      "smash burger"
+    ],
+    "description": "Kosher smash burgers with specialty sauces in Los Angeles."
+  },
+  "THE ERNEST ELIXIRS CORPORA": {
+    "business_type": "Beverage/Coffee/Tea",
+    "cuisine_tags": [
+      "elixirs",
+      "beverages",
+      "drinks"
+    ],
+    "description": "Craft elixir and beverage company based in Los Angeles."
+  },
+  "THE HEARTY HOME COMPANY": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food",
+      "hearty"
+    ],
+    "description": "Hearty homestyle comfort meals from a West Hills home kitchen."
+  },
+  "THE HERBITAGE TABLE": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "farm-to-table",
+      "seasonal",
+      "sustainable"
+    ],
+    "description": "Hyper-seasonal, locally sourced dishes with a focus on sustainability and fresh ingredients."
+  },
+  "THE KEBAB MOB": {
+    "business_type": "Mediterranean/Middle Eastern",
+    "cuisine_tags": [
+      "kebab",
+      "mediterranean",
+      "grilled meats"
+    ],
+    "description": "Grilled kebabs with chicken, beef, pork belly, salmon, hummus, rice, and salads."
+  },
+  "THE MINI BITES COMPANY": {
+    "business_type": "Catering/Events",
+    "cuisine_tags": [
+      "mini bites",
+      "appetizers",
+      "catering"
+    ],
+    "description": "Small bite-sized foods likely for events and catering occasions."
+  },
+  "THE OCEAN'S TABLE": {
+    "business_type": "Seafood",
+    "cuisine_tags": [
+      "seafood",
+      "coastal",
+      "homestyle"
+    ],
+    "description": "Home kitchen offering seafood-focused dishes in Redondo Beach."
+  },
+  "THE PASTRY SONG": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "pastry",
+      "baked goods",
+      "desserts"
+    ],
+    "description": "Home bakery specializing in pastries and baked treats."
+  },
+  "THE PATIO": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food",
+      "grill"
+    ],
+    "description": "Home kitchen in Compton offering comfort food and patio-style dining."
+  },
+  "THE SMOKEY SERMON": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "smoked meats",
+      "barbecue"
+    ],
+    "description": "Smoked and barbecued meats crafted with a signature smokey style."
+  },
+  "THE SWEET MEXICRAFT": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "mexican",
+      "sweets",
+      "craft"
+    ],
+    "description": "Mexican-inspired sweet treats and artisan confections."
+  },
+  "THE TAMALE SHOPPE": {
+    "business_type": "Mexican",
+    "cuisine_tags": [
+      "tamales",
+      "mexican",
+      "homemade"
+    ],
+    "description": "Handmade tamales daily using a family recipe since 1975."
+  },
+  "THREE MONSTERS KITCHEN &": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "homestyle",
+      "american"
+    ],
+    "description": "Home kitchen in Torrance serving comfort dishes with a casually classy vibe."
+  },
+  "TING'S KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homestyle",
+      "home kitchen"
+    ],
+    "description": "Home kitchen in Hacienda Heights serving homestyle Chinese dishes."
+  },
+  "TL TINY TREATS": {
+    "business_type": "Desserts/Sweets",
+    "cuisine_tags": [
+      "treats",
+      "sweets",
+      "mini desserts"
+    ],
+    "description": "Small-batch tiny treats and sweet confections from El Monte."
+  },
+  "TOASTED SUGAR BAKERY": {
+    "business_type": "Bakery",
+    "cuisine_tags": [
+      "bakery",
+      "toasted",
+      "pastries"
+    ],
+    "description": "Home bakery in Gardena specializing in baked goods and sugar treats."
+  },
+  "TRUE FORM": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "healthy",
+      "plant-based",
+      "fresh"
+    ],
+    "description": "Health-conscious meals made with fresh ingredients and mindful nutrition."
+  },
+  "U.S. XIAFEI TIANDI EDUCATION": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "education",
+      "cooking"
+    ],
+    "description": "Chinese home kitchen and culinary education business in Hacienda Heights."
+  },
+  "UYGHUR HOME KITCHEN": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "uyghur",
+      "central asian",
+      "halal"
+    ],
+    "description": "Uyghur home kitchen serving Central Asian cuisine in Santa Clarita."
+  },
+  "VEGAN GOT SOUL!": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "vegan",
+      "soul food",
+      "plant-based"
+    ],
+    "description": "Vegan soul food restaurant offering plant-based comfort dishes in Culver City."
+  },
+  "VEGGIE Y QUE": {
+    "business_type": "Vegan/Vegetarian",
+    "cuisine_tags": [
+      "vegan",
+      "mexican",
+      "plant-based"
+    ],
+    "description": "Vegetarian and vegan Mexican-inspired dishes served in Whittier."
+  },
+  "VENDITTIS PIZZA": {
+    "business_type": "Pizza/Italian",
+    "cuisine_tags": [
+      "pizza",
+      "italian"
+    ],
+    "description": "Home kitchen serving pizza and Italian-style dishes in Stevenson Ranch."
+  },
+  "VIDA KITCHEN": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "fusion",
+      "latin",
+      "cantina"
+    ],
+    "description": "Culinary fusion rooted in heritage with bold flavors and shared moments."
+  },
+  "VILLAGE GATE": {
+    "business_type": "Other",
+    "cuisine_tags": [
+      "homestyle",
+      "home kitchen"
+    ],
+    "description": "Home kitchen business in Los Angeles with unspecified cuisine."
+  },
+  "VOODI'S KITCHEN": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "homestyle",
+      "comfort food"
+    ],
+    "description": "Home kitchen in Woodland Hills serving homestyle comfort dishes."
+  },
+  "WAIT WAIT WAIT": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "asian",
+      "homestyle"
+    ],
+    "description": "Asian home kitchen in Hacienda Heights serving Chinese-style dishes."
+  },
+  "WATTS": {
+    "business_type": "Comfort Food/Soul Food",
+    "cuisine_tags": [
+      "comfort food",
+      "homestyle",
+      "american"
+    ],
+    "description": "Home kitchen in Gardena serving homestyle comfort food and coffee."
+  },
+  "WRAPS-TO-GOMEZTREJO": {
+    "business_type": "Sandwiches/Burgers",
+    "cuisine_tags": [
+      "wraps",
+      "to-go",
+      "homemade"
+    ],
+    "description": "First MEHKO in San Gabriel Valley specializing in wraps and to-go meals."
+  },
+  "WURST BARBEQUE": {
+    "business_type": "BBQ",
+    "cuisine_tags": [
+      "bbq",
+      "sausage",
+      "grilled"
+    ],
+    "description": "Barbecue home kitchen specializing in wurst-style grilled sausages and meats."
+  },
+  "YANA'S LADAS": {
+    "business_type": "Latin American",
+    "cuisine_tags": [
+      "empanadas",
+      "latin",
+      "homemade"
+    ],
+    "description": "Home kitchen serving ladas and Latin American-inspired dishes in Los Angeles."
+  },
+  "YANG'S FAMILY KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homestyle",
+      "family"
+    ],
+    "description": "Family-run home kitchen in Pomona serving homestyle Chinese food."
+  },
+  "YUE YUMMY KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "asian",
+      "chinese",
+      "soup"
+    ],
+    "description": "Asian home kitchen offering variety of dishes from soup broths to stir-fry."
+  },
+  "YU'S KITCHEN": {
+    "business_type": "Chinese",
+    "cuisine_tags": [
+      "chinese",
+      "homestyle"
+    ],
+    "description": "Home kitchen in San Gabriel serving homestyle Chinese cuisine."
+  }
+}

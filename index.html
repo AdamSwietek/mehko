@@ -592,58 +592,23 @@ function showProfile(biz) {
   updateDisplay();
 }
 
-// ── Community star (GitHub Gist) ────────────────────────────────────────────
-const GIST_ID    = 'ae6e027686a0f45b26c62b6ecb84ff53';
-const GIST_TOKEN = 'REMOVED';
-const GIST_FILE  = 'mehko-star.json';
-const GIST_URL   = `https://api.github.com/gists/${GIST_ID}`;
-let   currentStarred = null;
+// ── Community star (public gist, read-only) ─────────────────────────────────
+// To update the star: edit https://gist.github.com/AdamSwietek/ae6e027686a0f45b26c62b6ecb84ff53
+const GIST_RAW = 'https://gist.githubusercontent.com/AdamSwietek/ae6e027686a0f45b26c62b6ecb84ff53/raw/mehko-star.json';
+let currentStarred = null;
 
 async function loadStar() {
   try {
-    const r = await fetch(GIST_URL, {
-      headers: { 'Authorization': `Bearer ${GIST_TOKEN}`, 'Accept': 'application/vnd.github+json' }
-    });
+    const r = await fetch(GIST_RAW + '?t=' + Date.now()); // cache-bust
     const d = await r.json();
-    const raw = d.files?.[GIST_FILE]?.content;
-    if (raw) currentStarred = JSON.parse(raw).starred || null;
+    currentStarred = d.starred || null;
     updateDisplay();
   } catch(e) { console.warn('Star load failed', e); }
 }
 
-async function toggleStar() {
-  const bizName    = document.getElementById('profile-name').textContent;
-  const newStarred = currentStarred === bizName ? null : bizName;
-
-  // Read current log first
-  let log = [];
-  try {
-    const r = await fetch(GIST_URL, {
-      headers: { 'Authorization': `Bearer ${GIST_TOKEN}`, 'Accept': 'application/vnd.github+json' }
-    });
-    const d = await r.json();
-    const raw = d.files?.[GIST_FILE]?.content;
-    if (raw) log = JSON.parse(raw).log || [];
-  } catch(e) {}
-
-  if (newStarred) log.unshift({ name: newStarred, ts: new Date().toISOString() });
-  const payload = JSON.stringify({ starred: newStarred, log: log.slice(0, 50) });
-
-  try {
-    await fetch(GIST_URL, {
-      method: 'PATCH',
-      headers: {
-        'Authorization': `Bearer ${GIST_TOKEN}`,
-        'Accept': 'application/vnd.github+json',
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ files: { [GIST_FILE]: { content: payload } } })
-    });
-    currentStarred = newStarred;
-    const biz = BUSINESSES.find(b => b.name === bizName);
-    if (biz) showProfile(biz);
-    updateDisplay();
-  } catch(e) { alert('Could not save star — try again.'); }
+function toggleStar() {
+  // Read-only — star is set by the admin via the gist
+  alert('Community Pick is curated by the MEHKO LA team. Email swietek@usc.edu to nominate a business!');
 }
 
 loadStar();

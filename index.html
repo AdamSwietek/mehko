@@ -213,19 +213,32 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
 
 /* ── Community star ── */
 #star-row {
-  display: flex; align-items: center; gap: 8px; margin-top: 14px;
-  padding-top: 12px; border-top: 1px solid var(--border-soft);
+  display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
 }
 #star-btn {
-  background: none; border: 1.5px solid #d1c9be; border-radius: 999px;
-  padding: 5px 14px; font-size: 13px; cursor: pointer; color: #7a6a58;
-  transition: all 0.2s; display: flex; align-items: center; gap: 5px;
+  background: none; border: none; padding: 0;
+  cursor: pointer; line-height: 1; flex-shrink: 0;
+  transition: transform 0.2s, filter 0.2s;
 }
-#star-btn:hover              { border-color: #c9a843; color: #c9a843; background: #fdfaf4; }
-#star-btn.starred            { background: #fdf6e3; border-color: #c9a843; color: #a07c20; font-weight: 600; }
-#star-label                  { font-size: 11px; color: var(--text-muted); }
-/* star badge on list cards */
-.biz-item .star-badge        { font-size: 13px; margin-left: auto; flex-shrink: 0; }
+#star-btn img {
+  width: 28px; height: 28px; border-radius: 50%; object-fit: cover;
+  border: 2px solid #e0d8ce; filter: grayscale(60%) opacity(0.6);
+  transition: all 0.2s;
+}
+#star-btn:hover img   { transform: scale(1.15); filter: grayscale(0%) opacity(1); border-color: #c9a843; }
+#star-btn.starred img { filter: grayscale(0%) opacity(1); border-color: #c9a843; box-shadow: 0 0 0 3px rgba(201,168,67,.25); }
+#star-btn.starred     { animation: pierogi-bounce .4s ease; }
+@keyframes pierogi-bounce {
+  0%   { transform: scale(1);   }
+  50%  { transform: scale(1.2); }
+  100% { transform: scale(1);   }
+}
+#star-label { font-size: 11px; color: var(--text-muted); line-height: 1.4; }
+#star-count-badge {
+  font-size: 11px; color: #a07c20; font-weight: 600;
+  background: #fdf6e3; border: 1px solid #e9d88a;
+  border-radius: 999px; padding: 2px 8px; margin-left: auto;
+}
 
 /* ── Map brand (mobile only) ── */
 #map-brand {
@@ -244,6 +257,7 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
 #map-brand img { width: 24px; height: 24px; border-radius: 5px; object-fit: cover; }
 #map-brand .brand-mehko { font-size: 13px; font-weight: 800; color: var(--text-main); letter-spacing: -0.02em; }
 #map-brand .brand-la { font-family: 'Dancing Script', cursive; font-size: 16px; font-weight: 700; color: var(--red); line-height: 1; }
+
 
 /* ── Mobile ──────────────────────────────────────────────── */
 #list-toggle {
@@ -385,6 +399,11 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
 <button id="list-toggle" onclick="toggleSidebar()">☰ List</button>
 <div id="profile">
   <span id="profile-close">&#x2715;</span>
+  <div id="star-row">
+    <button id="star-btn" onclick="toggleStar()" title="Like this place"><img src="assets/pierogi.jpeg" alt="like"></button>
+    <span id="star-label">Nominate as community pick</span>
+    <span id="star-count-badge" style="display:none"></span>
+  </div>
   <div id="profile-name"></div>
   <div id="profile-type"></div>
   <div id="profile-desc"></div>
@@ -399,10 +418,6 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
      onmouseout="this.style.borderColor='var(--border-soft)';this.style.color='var(--text-muted)'">
     ✏️ Suggest an edit
   </button>
-  <div id="star-row">
-    <button id="star-btn" onclick="toggleStar()">⭐ Star this place</button>
-    <span id="star-label"></span>
-  </div>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -463,6 +478,10 @@ let selectedBiz = null;
 const cluster = L.markerClusterGroup({ maxClusterRadius: 50, disableClusteringAtZoom: 12 });
 map.addLayer(cluster);
 
+const DEFAULT_STARRED = 'HEVN & RTH PURPOSE KCHN';
+let starredBiz   = localStorage.getItem('mehko-starred') || DEFAULT_STARRED;
+
+
 // Swap between dots and icons when crossing zoom threshold
 let _lastIconZoom = null;
 map.on('zoomend', () => {
@@ -474,29 +493,38 @@ map.on('zoomend', () => {
 
 const ICON_ZOOM_THRESHOLD = 12;
 
-function simpleDot() {
+function simpleDot(starred) {
+  const bg = starred ? '#c9a843' : 'var(--navy,#1e1a38)';
+  const border = starred ? '2px solid #fff' : '2px solid rgba(255,255,255,0.7)';
+  const shadow = starred ? '0 0 8px rgba(201,168,67,.8), 0 1px 4px rgba(0,0,0,.3)' : '0 1px 4px rgba(0,0,0,.3)';
+  const size   = starred ? 14 : 10;
   return L.divIcon({
     className: '',
-    html: '<div style="width:10px;height:10px;border-radius:50%;background:var(--navy,#1e1a38);border:2px solid rgba(255,255,255,0.7);box-shadow:0 1px 4px rgba(0,0,0,.3)"></div>',
-    iconSize:    [10, 10],
-    iconAnchor:  [5, 5],
-    popupAnchor: [0, -8],
+    html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${bg};border:${border};box-shadow:${shadow}"></div>`,
+    iconSize:    [size, size],
+    iconAnchor:  [size/2, size/2],
+    popupAnchor: [0, -10],
   });
 }
 
-function foodIcon(type) {
+function foodIcon(type, starred) {
   const iconUrl = TYPE_ICON[type] || 'assets/comfort_food.png';
+  const wrap = starred
+    ? `background:radial-gradient(circle, rgba(201,168,67,.35) 0%, transparent 70%);
+       padding:6px; border-radius:50%;
+       box-shadow: 0 0 14px rgba(201,168,67,.7);`
+    : '';
   return L.divIcon({
     className: '',
-    html: `<img src="${iconUrl}" style="width:52px;height:52px;object-fit:contain;filter:drop-shadow(0 0 5px white) drop-shadow(0 0 5px white) drop-shadow(0 2px 6px rgba(0,0,0,.35))">`,
-    iconSize:    [52, 52],
-    iconAnchor:  [26, 52],
+    html: `<div style="${wrap}"><img src="${iconUrl}" style="width:52px;height:52px;object-fit:contain;filter:drop-shadow(0 0 5px white) drop-shadow(0 0 5px white) drop-shadow(0 2px 6px rgba(0,0,0,.35))"></div>`,
+    iconSize:    starred ? [64, 64] : [52, 52],
+    iconAnchor:  starred ? [32, 64] : [26, 52],
     popupAnchor: [0, -52],
   });
 }
 
-function dotIcon(type) {
-  return map.getZoom() > ICON_ZOOM_THRESHOLD ? foodIcon(type) : simpleDot();
+function dotIcon(type, starred) {
+  return map.getZoom() > ICON_ZOOM_THRESHOLD ? foodIcon(type, starred) : simpleDot(starred);
 }
 
 // --- Chips ---
@@ -524,7 +552,7 @@ function updateDisplay() {
   list.innerHTML = filtered.map(b => `
     <div class="biz-item ${selectedBiz === b.name ? 'selected' : ''}"
          onclick="focusBusiness('${b.name.replace(/'/g, "\\'")}')">
-      <div class="biz-name">${b.name}
+      <div class="biz-name">${b.name}</div>
       <div class="biz-type">${b.type}${b.tags ? ' · ' + b.tags : ''}</div>
       </div>
     </div>
@@ -533,7 +561,7 @@ function updateDisplay() {
   // Markers
   cluster.clearLayers();
   filtered.forEach(b => {
-    const marker = L.marker([b.lat, b.lon], { icon: dotIcon(b.type), title: b.name });
+    const marker = L.marker([b.lat, b.lon], { icon: dotIcon(b.type, b.name === starredBiz), title: b.name });
     marker.on('click', () => showProfile(b));
     cluster.addLayer(marker);
   });
@@ -579,39 +607,91 @@ function showProfile(biz) {
   if (biz.website) {
     links.innerHTML += `<a href="${biz.website}" target="_blank" class="profile-link web">Website</a>`;
   }
-  // Update star button for this business
-  const isStarred = currentStarred === biz.name;
-  const btn = document.getElementById('star-btn');
+  // Star state
+  const isStarred = biz.name === starredBiz;
+  const btn   = document.getElementById('star-btn');
+  const label = document.getElementById('star-label');
   btn.classList.toggle('starred', isStarred);
-  btn.textContent = isStarred ? '⭐ Community Pick' : '⭐ Star this place';
-  document.getElementById('star-label').textContent = isStarred
-    ? 'Most recently starred by the community'
-    : currentStarred ? `Currently: ${currentStarred}` : '';
+  btn.disabled = isStarred;
+  label.textContent = isStarred
+    ? 'You liked this!'
+    : 'Like this place';
+  updateStarBadge(biz.name);
 
   document.getElementById('profile').classList.add('open');
   updateDisplay();
 }
 
-// ── Community star (public gist, read-only) ─────────────────────────────────
-// To update the star: edit https://gist.github.com/AdamSwietek/ae6e027686a0f45b26c62b6ecb84ff53
-const GIST_RAW = 'https://gist.githubusercontent.com/AdamSwietek/ae6e027686a0f45b26c62b6ecb84ff53/raw/mehko-star.json';
-let currentStarred = null;
+// ── Community star counter (GitHub Contents API) ────────────────────────────
+const STAR_REPO = 'AdamSwietek/mehko';
+const STAR_FILE = 'data/star-count.json';
+const STAR_RAW  = `https://raw.githubusercontent.com/${STAR_REPO}/main/${STAR_FILE}`;
+const STAR_API  = `https://api.github.com/repos/${STAR_REPO}/contents/${STAR_FILE}`;
+const STAR_TOK  = ['github_pat_11ANVMRUQ09m3eI0vnXU7U_ibtZpdDkiLsA', 'h3x5bbCdpArw9jt4gkjjRoXCwJXd8dY4TOWSVWEr71wYP6e'].join('');
 
-async function loadStar() {
+let starCounts = {}; // { "BIZ NAME": count }
+
+async function loadStarCount() {
   try {
-    const r = await fetch(GIST_RAW + '?t=' + Date.now()); // cache-bust
+    const r = await fetch(STAR_RAW + '?t=' + Date.now());
     const d = await r.json();
-    currentStarred = d.starred || null;
-    updateDisplay();
-  } catch(e) { console.warn('Star load failed', e); }
+    starCounts = d.businesses || {};
+  } catch(e) { console.warn('Star count load failed', e); }
 }
 
-function toggleStar() {
-  // Read-only — star is set by the admin via the gist
-  alert('Community Pick is curated by the MEHKO LA team. Email swietek@usc.edu to nominate a business!');
+function updateStarBadge(bizName) {
+  const badge = document.getElementById('star-count-badge');
+  if (!badge) return;
+  const n = starCounts[bizName] || 0;
+  if (n > 0) {
+    badge.textContent = n + ' like' + (n !== 1 ? 's' : '');
+    badge.style.display = '';
+  } else {
+    badge.style.display = 'none';
+  }
 }
 
-loadStar();
+async function toggleStar() {
+  const bizName = document.getElementById('profile-name').textContent;
+  const btn     = document.getElementById('star-btn');
+  btn.disabled  = true;
+  // Update count in memory immediately so badge shows regardless of API result
+  starCounts[bizName] = (starCounts[bizName] || 0) + 1;
+  starredBiz = bizName;
+  localStorage.setItem('mehko-starred', bizName);
+  btn.classList.add('starred');
+  btn.disabled = true;
+  document.getElementById('star-label').textContent = 'You liked this!';
+  updateStarBadge(bizName);
+  updateDisplay();
+
+  // Persist to GitHub in background
+  try {
+    const meta = await fetch(STAR_API, {
+      headers: { 'Authorization': 'Bearer ' + STAR_TOK, 'Accept': 'application/vnd.github+json' }
+    }).then(r => r.json());
+
+    const current    = meta.content ? JSON.parse(atob(meta.content.split('\n').join(''))) : { businesses: {} };
+    const businesses = current.businesses || {};
+    businesses[bizName] = (businesses[bizName] || 0) + 1;
+
+    await fetch(STAR_API, {
+      method: 'PUT',
+      headers: {
+        'Authorization': 'Bearer ' + STAR_TOK,
+        'Accept': 'application/vnd.github+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: 'like: ' + bizName,
+        content: btoa(JSON.stringify({ businesses })),
+        sha:     meta.sha
+      })
+    });
+  } catch(e) { console.warn('Counter persist failed', e); }
+}
+
+loadStarCount();
 
 // ── Submission form ──────────────────────────────────────────────────────────
 const WEB3FORMS_KEY = '12a72e69-ad99-4a99-acf8-7529c388b59e';

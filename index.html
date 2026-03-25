@@ -227,6 +227,24 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
 /* star badge on list cards */
 .biz-item .star-badge        { font-size: 13px; margin-left: auto; flex-shrink: 0; }
 
+/* ── Map brand (mobile only) ── */
+#map-brand {
+  display: none;
+  position: fixed; top: 12px; left: 12px;
+  z-index: 1500;
+  background: rgba(253,249,243,0.88);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(74,54,33,0.1);
+  border-radius: 10px;
+  padding: 6px 10px 6px 6px;
+  display: none; align-items: center; gap: 7px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.1);
+}
+#map-brand img { width: 24px; height: 24px; border-radius: 5px; object-fit: cover; }
+#map-brand .brand-mehko { font-size: 13px; font-weight: 800; color: var(--text-main); letter-spacing: -0.02em; }
+#map-brand .brand-la { font-family: 'Dancing Script', cursive; font-size: 16px; font-weight: 700; color: var(--red); line-height: 1; }
+
 /* ── Mobile ──────────────────────────────────────────────── */
 #list-toggle {
   display: none;
@@ -255,6 +273,7 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
   #profile { left: 0; width: 100%; border-radius: 12px 12px 0 0; }
 
   #list-toggle { display: block; }
+  #map-brand { display: flex; }
 }
 </style>
 </head>
@@ -263,7 +282,7 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
   <div class="header-container">
     <div id="sidebar-header">
       <h1><img src="assets/pierogi.jpeg" style="width:28px;height:28px;border-radius:6px;object-fit:cover;flex-shrink:0;">MEHKO <span style="color:var(--red);font-family:'Dancing Script',cursive;font-size:20px;font-weight:700;line-height:1;">Los Angeles</span></h1>
-      <a id="mehko-link" href="http://www.publichealth.lacounty.gov/EH/business/microenterprise-home-kitchen-operation.htm" target="_blank">Mapping Home Kitchens. What is MEHKO?</a>
+      <a id="mehko-link" href="http://www.publichealth.lacounty.gov/EH/business/microenterprise-home-kitchen-operation.htm" target="_blank"> Local Home Kitchens. What is a MEHKO?</a>
       <div id="search-row">
         <input id="search" type="text" placeholder="Search by name or cuisine…" autocomplete="off">
         <button id="reset-btn" onclick="resetAll()">&#x2715; Reset</button>
@@ -277,6 +296,11 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
     <!-- <span>Questions? <a href="mailto:swietek@usc.edu">swietek@usc.edu</a></span> -->
     <button id="submit-btn" onclick="openSubmitForm()">+ Submit</button>
   </div>
+</div>
+<div id="map-brand" aria-hidden="true">
+  <img src="assets/pierogi.jpeg" alt="">
+  <span class="brand-mehko">MEHKO</span>
+  <span class="brand-la">Los Angeles</span>
 </div>
 <div id="map"></div>
 <div id="submit-overlay">

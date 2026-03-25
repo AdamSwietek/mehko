@@ -128,7 +128,7 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
   background: #fff; border-radius: 12px; padding: 28px 28px 22px;
   max-width: 420px; width: 90%; box-shadow: 0 8px 32px rgba(0,0,0,.2);
 }
-#disclaimer-box h2 { font-size: 15px; font-weight: 700; color: #111; margin-bottom: 12px; }
+#disclaimer-box h2 { font-size: 15px; font-weight: 700; color: #111; margin-bottom: 12px; text-align: center; }
 #disclaimer-box p  { font-size: 13px; color: #444; line-height: 1.6; margin-bottom: 10px; }
 #disclaimer-box a  { color: var(--green); text-decoration: none; }
 #disclaimer-box a:hover { text-decoration: underline; }
@@ -390,15 +390,13 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, "Seg
 </div>
 <div id="disclaimer-overlay">
   <div id="disclaimer-box">
-    <h2>About This Map</h2>
-    <p>Explore LA’s Home Kitchens
-This directory maps active MEHKO (Micro-Enterprise Home Kitchen Operation) licenses in Los Angeles.
+    <img src="assets/pierogi.jpeg" style="display:block;width:64px;height:64px;border-radius:50%;object-fit:cover;margin:0 auto 14px;border:3px solid var(--border-soft,#ecdfd0);">
+    <h2>LA's Home Kitchens</h2>
+    <p>This directory maps active <strong>MEHKO</strong> (Micro-Enterprise Home Kitchen Operation) licenses in Los Angeles.</p>
+    <p><em> Note: A license reflects a permit to operate, but it does not guarantee a kitchen is currently open. Many businesses may still be in the setup phase. Cuisine types and descriptions are automatically generated from permit and open data. These are intended as a guide and may contain errors. As these are private home kitchens, hours and contact info can change without notice.</em></p>
+    <p><strong>See a mistake?</strong> Help us keep the map accurate by submitting corrections &amp; additions.</p>
 
-Note: Listings and cuisine descriptions are AI-generated from permit data and may contain errors. Since these are independent home kitchens, details like hours and availability change quickly.
-
-See a mistake? Help us keep the map accurate for the community by submitting corrections & additions. Smacznego!</p>
-    <p>Questions or corrections? Contact <a href="mailto:swietek@usc.edu">swietek@usc.edu</a>.</p>
-    <button id="disclaimer-close" onclick="closeDisclaimer()">Got it</button>
+        <button id="disclaimer-close" onclick="closeDisclaimer()">Got it</button>
   </div>
 </div>
 <button id="list-toggle" onclick="toggleSidebar()">☰ List</button>

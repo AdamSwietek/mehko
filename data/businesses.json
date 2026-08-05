@@ -1,6 +1,7 @@
 {
   "businesses": [
     {
+      "id": "3-up-burgers",
       "name": "3 UP BURGERS",
       "type": "Sandwiches/Burgers",
       "tags": "burgers, cheeseburgers, smash burgers",
@@ -12,6 +13,7 @@
       "lon": -118.213378363668
     },
     {
+      "id": "absolute-sweetness-cafe",
       "name": "ABSOLUTE SWEETNESS CAFE",
       "type": "Mexican",
       "tags": "mexican, cafe, sweets",
@@ -23,6 +25,7 @@
       "lon": -118.116748872372
     },
     {
+      "id": "ada-deliciosa-comida-guat",
       "name": "ADA DELICIOSA COMIDA GUAT",
       "type": "Salvadoran/Guatemalan",
       "tags": "guatemalan, comida tipica",
@@ -34,6 +37,7 @@
       "lon": -118.539300930429
     },
     {
+      "id": "alejandra-s-cocina",
       "name": "ALEJANDRA'S COCINA",
       "type": "Mexican",
       "tags": "mexican, carne asada, guisados",
@@ -45,6 +49,7 @@
       "lon": -118.030571869099
     },
     {
+      "id": "alena-s-lab-kitchen",
       "name": "ALENA'S LAB KITCHEN",
       "type": "Other",
       "tags": "home kitchen, homemade",
@@ -56,6 +61,7 @@
       "lon": -118.243373249899
     },
     {
+      "id": "allen-s-baliwag-special-chi",
       "name": "ALLEN'S BALIWAG SPECIAL CHI",
       "type": "Filipino",
       "tags": "filipino, lechon, bbq",
@@ -67,6 +73,7 @@
       "lon": -118.208715002373
     },
     {
+      "id": "almuerzo-casero",
       "name": "ALMUERZO CASERO",
       "type": "Latin American",
       "tags": "latin, almuerzo, homestyle",
@@ -78,6 +85,7 @@
       "lon": -118.459717177728
     },
     {
+      "id": "amber-kitchen",
       "name": "AMBER KITCHEN",
       "type": "Breakfast/Brunch",
       "tags": "brunch, coffee, lunch",
@@ -89,6 +97,7 @@
       "lon": -118.119272822168
     },
     {
+      "id": "andres-s-fernandez-llc",
       "name": "ANDRES S FERNANDEZ LLC",
       "type": "Sandwiches/Burgers",
       "tags": "grilled cheese, bar food, sandwiches",
@@ -100,6 +109,7 @@
       "lon": -118.645059320526
     },
     {
+      "id": "angel-city-dumpling-co",
       "name": "ANGEL CITY DUMPLING CO.",
       "type": "Other",
       "tags": "dumplings, fusion, shawarma",
@@ -111,6 +121,7 @@
       "lon": -118.617910496729
     },
     {
+      "id": "angry-bull-bbq",
       "name": "ANGRY BULL BBQ",
       "type": "BBQ",
       "tags": "bbq, brisket, ribs",
@@ -122,6 +133,7 @@
       "lon": -118.419160041435
     },
     {
+      "id": "anita-bakery",
       "name": "ANITA BAKERY",
       "type": "Bakery",
       "tags": "bakery, cookies, mooncakes",
@@ -133,6 +145,7 @@
       "lon": -118.051212013724
     },
     {
+      "id": "antojitos-m-x-y-mas",
       "name": "ANTOJITOS M.X. Y MAS",
       "type": "Mexican",
       "tags": "mexican, antojitos, comfort food",
@@ -144,6 +157,7 @@
       "lon": -118.164231012288
     },
     {
+      "id": "arusuvai-indian-cuisine",
       "name": "ARUSUVAI INDIAN CUISINE",
       "type": "Indian/South Asian",
       "tags": "indian, north indian, south indian",
@@ -155,6 +169,7 @@
       "lon": -118.420694461482
     },
     {
+      "id": "asados-to-go",
       "name": "ASADOS TO GO",
       "type": "BBQ",
       "tags": "asado, bbq, mexican",
@@ -166,6 +181,7 @@
       "lon": -118.43121764934
     },
     {
+      "id": "baileys-n-more",
       "name": "BAILEYS N' MORE",
       "type": "Nigerian/West African",
       "tags": "nigerian, fusion, organic",
@@ -177,6 +193,7 @@
       "lon": -118.375530621112
     },
     {
+      "id": "bake-n-bloom",
       "name": "BAKE N' BLOOM",
       "type": "Bakery",
       "tags": "bakery, cakes, gifts",
@@ -188,6 +205,7 @@
       "lon": -117.749772247381
     },
     {
+      "id": "baobao-bread",
       "name": "BAOBAO BREAD",
       "type": "Bakery",
       "tags": "bread, bao, asian bakery",
@@ -199,6 +217,7 @@
       "lon": -118.092284828737
     },
     {
+      "id": "barrio-bites-llc",
       "name": "BARRIO BITES LLC",
       "type": "Mexican",
       "tags": "mexican, barbacoa, street food",
@@ -210,6 +229,7 @@
       "lon": -118.404689008876
     },
     {
+      "id": "baylei-s-comfort-kitchen",
       "name": "BAYLEI'S COMFORT KITCHEN",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, home dining, chef",
@@ -221,6 +241,7 @@
       "lon": -118.260610262174
     },
     {
+      "id": "bender-s-eat-well",
       "name": "BENDER'S EAT WELL",
       "type": "Sandwiches/Burgers",
       "tags": "sandwiches, wraps, healthy",
@@ -232,6 +253,7 @@
       "lon": -118.288461454294
     },
     {
+      "id": "big-market-lamb-soup",
       "name": "BIG MARKET LAMB SOUP",
       "type": "Mediterranean/Middle Eastern",
       "tags": "lamb soup, chinese, halal",
@@ -243,6 +265,7 @@
       "lon": -117.897042878358
     },
     {
+      "id": "bodegacat-la",
       "name": "BODEGACAT LA",
       "type": "Other",
       "tags": "bodega, los angeles, neighborhood",
@@ -254,6 +277,7 @@
       "lon": -118.24973968596
     },
     {
+      "id": "bond-appetito",
       "name": "BOND APPETITO",
       "type": "Other",
       "tags": "italian, homemade, appetito",
@@ -265,6 +289,7 @@
       "lon": -118.351806208148
     },
     {
+      "id": "bougie-boards-la",
       "name": "BOUGIE BOARDS LA",
       "type": "Charcuterie/Boards",
       "tags": "charcuterie, grazing tables, events",
@@ -276,6 +301,7 @@
       "lon": -118.325709908713
     },
     {
+      "id": "bubbas-bites",
       "name": "BUBBAS BITES",
       "type": "Other",
       "tags": "snacks, bites, comfort food",
@@ -287,6 +313,7 @@
       "lon": -117.852026646686
     },
     {
+      "id": "cafe-tumbado",
       "name": "CAFE TUMBADO",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, oaxacan, latina-owned",
@@ -298,6 +325,7 @@
       "lon": -118.073657767356
     },
     {
+      "id": "cajun-flare",
       "name": "CAJUN FLARE",
       "type": "Seafood",
       "tags": "cajun, seafood boil, gumbo",
@@ -309,6 +337,7 @@
       "lon": -118.536135223608
     },
     {
+      "id": "carnitas-el-bigoton-becerr",
       "name": "CARNITAS EL BIGOTON BECERR",
       "type": "Mexican",
       "tags": "mexican, carnitas, pork",
@@ -320,6 +349,7 @@
       "lon": -118.091838914929
     },
     {
+      "id": "carol-c-events",
       "name": "CAROL C EVENTS",
       "type": "Catering/Events",
       "tags": "catering, events, party food",
@@ -331,6 +361,7 @@
       "lon": -118.290002977076
     },
     {
+      "id": "cat-s-out-the-bag",
       "name": "CAT'S OUT THE BAG",
       "type": "Other",
       "tags": "pet food, homemade",
@@ -342,6 +373,7 @@
       "lon": -118.317173673014
     },
     {
+      "id": "charcuterie-art-cart-llc",
       "name": "CHARCUTERIE ART CART LLC",
       "type": "Charcuterie/Boards",
       "tags": "charcuterie, grazing boards, entertaining",
@@ -353,6 +385,7 @@
       "lon": -118.315106381164
     },
     {
+      "id": "cheesecake-de-granger",
       "name": "CHEESECAKE DE GRANGER",
       "type": "Desserts/Sweets",
       "tags": "cheesecake, desserts, bakery",
@@ -364,6 +397,7 @@
       "lon": -118.354922955093
     },
     {
+      "id": "chef-c-notes-creations",
       "name": "CHEF C-NOTES CREATIONS",
       "type": "Other",
       "tags": "chef, creative, homemade",
@@ -375,6 +409,7 @@
       "lon": -118.540322487739
     },
     {
+      "id": "chef-glenda-goodness",
       "name": "CHEF GLENDA GOODNESS",
       "type": "Other",
       "tags": "homemade, chef, comfort food",
@@ -386,6 +421,7 @@
       "lon": -118.168828216341
     },
     {
+      "id": "chef-tobin-s-plant-based-ki",
       "name": "CHEF TOBIN'S PLANT BASED KI",
       "type": "Vegan/Vegetarian",
       "tags": "plant-based, vegan, healthy",
@@ -397,6 +433,7 @@
       "lon": -118.517804632949
     },
     {
+      "id": "chez-fatoumata",
       "name": "CHEZ FATOUMATA",
       "type": "Nigerian/West African",
       "tags": "west african, senegalese, homemade",
@@ -408,6 +445,7 @@
       "lon": -118.30904548513
     },
     {
+      "id": "chi-town-pizza",
       "name": "CHI TOWN PIZZA",
       "type": "Pizza/Italian",
       "tags": "pizza, chicago-style, deep dish",
@@ -419,6 +457,7 @@
       "lon": -117.863231244626
     },
     {
+      "id": "chicago-meats-la",
       "name": "CHICAGO MEATS LA",
       "type": "Sandwiches/Burgers",
       "tags": "meats, chicago-style, deli",
@@ -430,6 +469,7 @@
       "lon": -118.391333362493
     },
     {
+      "id": "chuchu-dessert-lab",
       "name": "CHUCHU DESSERT LAB",
       "type": "Desserts/Sweets",
       "tags": "desserts, sweets, lab",
@@ -441,6 +481,7 @@
       "lon": -118.261538395481
     },
     {
+      "id": "cinema-chow",
       "name": "CINEMA CHOW",
       "type": "Other",
       "tags": "meal prep, homemade, comfort food",
@@ -452,6 +493,7 @@
       "lon": -118.491455499946
     },
     {
+      "id": "club-051",
       "name": "CLUB 051",
       "type": "Other",
       "tags": "homemade, comfort food",
@@ -463,6 +505,7 @@
       "lon": -118.611736489856
     },
     {
+      "id": "coach-s",
       "name": "COACH'S",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, homemade, healthy",
@@ -474,6 +517,7 @@
       "lon": -118.496686426169
     },
     {
+      "id": "coffee-and-toast",
       "name": "COFFEE AND TOAST",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, toast, breakfast",
@@ -485,6 +529,19 @@
       "lon": -118.337416277077
     },
     {
+      "id": "cold-brew-coffee-crew",
+      "name": "Cold Brew Coffee Crew",
+      "type": "Beverage/Coffee/Tea",
+      "tags": "cold brew, coffee, sourdough toast",
+      "description": "Speakeasy home cafe in Hollywood serving cold brew coffee drinks and sourdough toasts.",
+      "address": "6045 SELMA AVE, LOS ANGELES 90028",
+      "instagram": "@coldbrewcoffeecrew",
+      "website": "https://www.coldbrewcoffeecrewla.com",
+      "lat": 34.099743770632,
+      "lon": -118.321328310101
+    },
+    {
+      "id": "corazon-coffee-and-pastri",
       "name": "CORAZON COFFEE AND PASTRI",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, pastries, bakery",
@@ -496,6 +553,7 @@
       "lon": -118.204699875374
     },
     {
+      "id": "crazy-tasty",
       "name": "CRAZY TASTY",
       "type": "Other",
       "tags": "homemade, creative, comfort food",
@@ -507,6 +565,7 @@
       "lon": -118.277517137969
     },
     {
+      "id": "creole-delight-haitian",
       "name": "CREOLE DELIGHT HAITIAN",
       "type": "Caribbean",
       "tags": "haitian, creole, caribbean",
@@ -518,6 +577,7 @@
       "lon": -118.324353709835
     },
     {
+      "id": "cubamexico",
       "name": "CUBAMEXICO",
       "type": "Latin American",
       "tags": "cuban, mexican, fusion",
@@ -529,6 +589,7 @@
       "lon": -118.195870089621
     },
     {
+      "id": "da-barbara",
       "name": "DA BARBARA",
       "type": "Pizza/Italian",
       "tags": "italian, fine dining, pasta",
@@ -540,6 +601,7 @@
       "lon": -118.328926642252
     },
     {
+      "id": "daria-poddubniak",
       "name": "DARIA PODDUBNIAK",
       "type": "Other",
       "tags": "homemade, eastern european, authentic",
@@ -551,6 +613,7 @@
       "lon": -118.394771338431
     },
     {
+      "id": "deddy-s-vibe",
       "name": "DEDDY'S VIBE",
       "type": "Other",
       "tags": "cafe, comfort food, vibes",
@@ -562,6 +625,7 @@
       "lon": -118.262478912179
     },
     {
+      "id": "delicia-pura",
       "name": "DELICIA PURA",
       "type": "Latin American",
       "tags": "latin, homemade, delicacies",
@@ -573,6 +637,7 @@
       "lon": -118.294576141987
     },
     {
+      "id": "delicias-sarita-food",
       "name": "DELICIAS SARITA FOOD",
       "type": "Latin American",
       "tags": "latin, homemade, comfort food",
@@ -584,6 +649,7 @@
       "lon": -118.117678537943
     },
     {
+      "id": "devon-eats",
       "name": "DEVON EATS",
       "type": "Other",
       "tags": "homemade, meal prep",
@@ -595,6 +661,7 @@
       "lon": -118.332397833815
     },
     {
+      "id": "dolce-tesori",
       "name": "DOLCE TESORI",
       "type": "Desserts/Sweets",
       "tags": "desserts, sweets, italian",
@@ -606,6 +673,7 @@
       "lon": -118.285995108135
     },
     {
+      "id": "don-t-you-dairy",
       "name": "DON'T YOU DAIRY",
       "type": "Vegan/Vegetarian",
       "tags": "dairy-free, vegan, plant-based",
@@ -617,6 +685,7 @@
       "lon": -118.354368656023
     },
     {
+      "id": "dulce-sorpresa-y-mas",
       "name": "DULCE SORPRESA Y MAS",
       "type": "Desserts/Sweets",
       "tags": "sweets, desserts, gifts",
@@ -628,6 +697,7 @@
       "lon": -118.073613142473
     },
     {
+      "id": "east-british-curry-compan",
       "name": "EAST BRITISH CURRY COMPAN",
       "type": "Indian/South Asian",
       "tags": "british, curry, indian",
@@ -639,6 +709,7 @@
       "lon": -118.405317032934
     },
     {
+      "id": "edible-kids-art",
       "name": "EDIBLE KIDS ART",
       "type": "Desserts/Sweets",
       "tags": "kids, edible art, treats",
@@ -650,6 +721,7 @@
       "lon": -118.324642027505
     },
     {
+      "id": "el-patio-cafe",
       "name": "EL PATIO CAFE",
       "type": "Mexican",
       "tags": "mexican, fusion, cafe",
@@ -661,6 +733,7 @@
       "lon": -118.284606249109
     },
     {
+      "id": "erkitchen-com",
       "name": "ERKITCHEN.COM",
       "type": "Other",
       "tags": "homemade, kitchen",
@@ -672,6 +745,7 @@
       "lon": -118.217253796914
     },
     {
+      "id": "fat-dog-social",
       "name": "FAT DOG SOCIAL",
       "type": "Sandwiches/Burgers",
       "tags": "hot dogs, comfort food",
@@ -683,6 +757,7 @@
       "lon": -118.560572548649
     },
     {
+      "id": "favor-flavor-afriq-llc",
       "name": "FAVOR&FLAVOR AFRIQ LLC",
       "type": "Nigerian/West African",
       "tags": "african, fusion, spices",
@@ -694,6 +769,7 @@
       "lon": -118.327978916218
     },
     {
+      "id": "fawzai-bakes",
       "name": "FAWZAI BAKES",
       "type": "Mediterranean/Middle Eastern",
       "tags": "afghani, kebab, biryani",
@@ -705,17 +781,19 @@
       "lon": -118.350358422643
     },
     {
+      "id": "feng-ming-delicious-inc",
       "name": "FENG MING DELICIOUS, INC",
       "type": "Chinese",
       "tags": "chinese, homemade",
       "description": "Chinese home kitchen business based in Walnut.",
-      "address": "20228 MCGILL DR, WALNUT 9178-9",
+      "address": "20228 MCGILL DR, WALNUT 91789",
       "instagram": "",
       "website": "",
       "lat": 34.020563593112,
       "lon": -117.860566535772
     },
     {
+      "id": "flocal-kitchen",
       "name": "FLOCAL KITCHEN",
       "type": "Other",
       "tags": "local, kitchen, homemade",
@@ -727,6 +805,7 @@
       "lon": -118.291973274447
     },
     {
+      "id": "francesca-mallus-chef",
       "name": "FRANCESCA MALLUS CHEF",
       "type": "Catering/Events",
       "tags": "chef, private dining, catering",
@@ -738,6 +817,7 @@
       "lon": -118.345882482436
     },
     {
+      "id": "free-to-chat-fizzy",
       "name": "FREE TO CHAT FIZZY",
       "type": "Beverage/Coffee/Tea",
       "tags": "beverages, fizzy, healthy",
@@ -749,6 +829,7 @@
       "lon": -118.21365699241
     },
     {
+      "id": "fresh-fruit-by-ruth",
       "name": "FRESH FRUIT BY RUTH",
       "type": "Other",
       "tags": "fresh fruit, snacks, healthy",
@@ -760,6 +841,7 @@
       "lon": -118.196788755714
     },
     {
+      "id": "fried-taco-co",
       "name": "FRIED TACO CO",
       "type": "Mexican",
       "tags": "tacos, fried, chilaquiles",
@@ -771,6 +853,7 @@
       "lon": -118.089176546861
     },
     {
+      "id": "frizzles",
       "name": "FRIZZLES",
       "type": "Other",
       "tags": "snacks, homemade",
@@ -782,6 +865,7 @@
       "lon": -118.324584398485
     },
     {
+      "id": "full-tilt-bbq",
       "name": "FULL TILT BBQ",
       "type": "BBQ",
       "tags": "bbq, american, smoked meat",
@@ -793,6 +877,7 @@
       "lon": -118.653274622378
     },
     {
+      "id": "fundacion-sonrias-latinas",
       "name": "FUNDACION SONRIAS LATINAS",
       "type": "Latin American",
       "tags": "latin, community, homemade",
@@ -804,6 +889,7 @@
       "lon": -118.432243597162
     },
     {
+      "id": "gamma-tamales",
       "name": "GAMMA TAMALES",
       "type": "Mexican",
       "tags": "tamales, mexican, homemade",
@@ -815,6 +901,7 @@
       "lon": -118.406839918404
     },
     {
+      "id": "gancia-s-craft-kitchen",
       "name": "GANCIA'S CRAFT KITCHEN",
       "type": "Other",
       "tags": "craft, homemade, artisan",
@@ -826,6 +913,7 @@
       "lon": -118.16229726238
     },
     {
+      "id": "garden-of-edendale",
       "name": "GARDEN OF EDENDALE",
       "type": "Vegan/Vegetarian",
       "tags": "garden, fresh, healthy",
@@ -837,6 +925,7 @@
       "lon": -118.245336651601
     },
     {
+      "id": "geras-kocina",
       "name": "GERAS_KOCINA",
       "type": "Mexican",
       "tags": "mexican, burritos, guisado",
@@ -848,6 +937,7 @@
       "lon": -118.190938474287
     },
     {
+      "id": "gertie-s-sweet-delights",
       "name": "GERTIE'S SWEET DELIGHTS",
       "type": "Desserts/Sweets",
       "tags": "desserts, sweets, gluten-free",
@@ -859,6 +949,7 @@
       "lon": -117.850182765735
     },
     {
+      "id": "gezhong-geyang-de-tiandia",
       "name": "GEZHONG GEYANG DE TIANDIA",
       "type": "Chinese",
       "tags": "chinese, desserts, sweets",
@@ -870,6 +961,7 @@
       "lon": -118.341819504707
     },
     {
+      "id": "gm-coffee-co",
       "name": "GM COFFEE CO",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, beverages",
@@ -881,6 +973,7 @@
       "lon": -118.112278349591
     },
     {
+      "id": "golden-gastronome",
       "name": "GOLDEN GASTRONOME",
       "type": "Other",
       "tags": "gourmet, homemade",
@@ -892,6 +985,7 @@
       "lon": -118.50070713358
     },
     {
+      "id": "gorditas-laguneras",
       "name": "GORDITAS LAGUNERAS",
       "type": "Mexican",
       "tags": "gorditas, mexican, traditional",
@@ -903,6 +997,7 @@
       "lon": -118.101497628412
     },
     {
+      "id": "gpc",
       "name": "GPC",
       "type": "Other",
       "tags": "homemade, kitchen",
@@ -914,9 +1009,10 @@
       "lon": -118.562941218414
     },
     {
+      "id": "granada",
       "name": "GRANADA",
-      "type": "Mediterranean/Middle Eastern",
-      "tags": "kebab, mediterranean, hummus",
+      "type": "Beverage/Coffee/Tea",
+      "tags": "middle eastern, mediterranean, hummus",
       "description": "Granada is a viral, home-based coffee shop and community gathering space located inside a private residence on historic Carroll Avenue in the Angelino Heights neighborhood of Echo Park.",
       "address": "1451 CARROLL AVE, LOS ANGELES 90026",
       "instagram": "@granada_echopark",
@@ -925,6 +1021,7 @@
       "lon": -118.255959782661
     },
     {
+      "id": "guille-s-kitchen",
       "name": "GUILLE'S KITCHEN",
       "type": "Mexican",
       "tags": "mexican, homemade",
@@ -936,6 +1033,7 @@
       "lon": -117.924445293843
     },
     {
+      "id": "guojie-jia-wei-xuan",
       "name": "GUOJIE JIA WEI XUAN",
       "type": "Chinese",
       "tags": "chinese, homemade, home-style",
@@ -947,6 +1045,7 @@
       "lon": -118.119616496583
     },
     {
+      "id": "hampy-bread",
       "name": "HAMPY BREAD",
       "type": "Bakery",
       "tags": "bread, baked goods",
@@ -958,6 +1057,7 @@
       "lon": -118.300610101881
     },
     {
+      "id": "happy-couple-kitchen",
       "name": "HAPPY COUPLE KITCHEN",
       "type": "Comfort Food/Soul Food",
       "tags": "homestyle, comfort food",
@@ -969,6 +1069,7 @@
       "lon": -118.191164981321
     },
     {
+      "id": "hefan-home-kitchen",
       "name": "HEFAN HOME KITCHEN",
       "type": "Chinese",
       "tags": "chinese, home cooking",
@@ -980,6 +1081,7 @@
       "lon": -118.264927553423
     },
     {
+      "id": "hevn-rth-purpose-kchn",
       "name": "HEVN & RTH PURPOSE KCHN",
       "type": "Vegan/Vegetarian",
       "tags": "meal prep, juices, healthy",
@@ -991,6 +1093,7 @@
       "lon": -118.378586787098
     },
     {
+      "id": "hibiscus-watermelon",
       "name": "HIBISCUS & WATERMELON",
       "type": "Comfort Food/Soul Food",
       "tags": "juneteenth, soul food, bbq",
@@ -1002,6 +1105,7 @@
       "lon": -118.246508067118
     },
     {
+      "id": "hollywood-nosh",
       "name": "HOLLYWOOD NOSH",
       "type": "Other",
       "tags": "eclectic, los angeles",
@@ -1013,6 +1117,7 @@
       "lon": -118.350205283621
     },
     {
+      "id": "home-kitchen",
       "name": "HOME KITCHEN",
       "type": "Comfort Food/Soul Food",
       "tags": "homemade, comfort food",
@@ -1024,6 +1129,7 @@
       "lon": -117.90512965089
     },
     {
+      "id": "home-table",
       "name": "HOME TABLE",
       "type": "Other",
       "tags": "homestyle, rowland heights",
@@ -1035,6 +1141,7 @@
       "lon": -117.88329785606
     },
     {
+      "id": "homecooked-by-kp",
       "name": "HOMECOOKED BY KP",
       "type": "Comfort Food/Soul Food",
       "tags": "homemade, comfort food, traditional",
@@ -1046,6 +1153,7 @@
       "lon": -118.10074299309
     },
     {
+      "id": "homestyle-bites",
       "name": "HOMESTYLE BITES",
       "type": "Japanese/Korean",
       "tags": "homestyle, japanese, comfort food",
@@ -1057,6 +1165,7 @@
       "lon": -117.914464958065
     },
     {
+      "id": "hui-s-exquisitely-hand-mad",
       "name": "HUI'S EXQUISITELY HAND MAD",
       "type": "Chinese",
       "tags": "handmade, chinese, noodles",
@@ -1068,6 +1177,7 @@
       "lon": -118.044326087791
     },
     {
+      "id": "ibing-bing",
       "name": "IBING BING",
       "type": "Chinese",
       "tags": "chinese, rice noodles, luosifen",
@@ -1079,6 +1189,7 @@
       "lon": -117.883377579138
     },
     {
+      "id": "j-tan-home-kitchen",
       "name": "J TAN HOME KITCHEN",
       "type": "Chinese",
       "tags": "chinese, asian, home cooking",
@@ -1090,6 +1201,7 @@
       "lon": -118.130535474211
     },
     {
+      "id": "jackrabbit-s-lair",
       "name": "JACKRABBIT'S LAIR",
       "type": "Catering/Events",
       "tags": "pop-up, dinner events, eclectic",
@@ -1101,6 +1213,7 @@
       "lon": -118.222907132028
     },
     {
+      "id": "jajah-omah",
       "name": "JAJAH OMAH",
       "type": "Bakery",
       "tags": "indonesian, pandan, cake",
@@ -1112,6 +1225,7 @@
       "lon": -118.398040490578
     },
     {
+      "id": "janet-s-home-cooking",
       "name": "JANET'S HOME COOKING",
       "type": "Comfort Food/Soul Food",
       "tags": "home cooking, comfort food",
@@ -1123,6 +1237,7 @@
       "lon": -118.389879172169
     },
     {
+      "id": "janzen-s-hillside-table",
       "name": "JANZEN'S HILLSIDE TABLE",
       "type": "Other",
       "tags": "homestyle, hillside",
@@ -1134,6 +1249,7 @@
       "lon": -118.672877833004
     },
     {
+      "id": "jdawgz-eatz-llc",
       "name": "JDAWGZ EATZ LLC",
       "type": "Comfort Food/Soul Food",
       "tags": "soul food, comfort food",
@@ -1145,6 +1261,7 @@
       "lon": -117.999763155015
     },
     {
+      "id": "jennifer-silbert",
       "name": "JENNIFER SILBERT",
       "type": "Other",
       "tags": "eclectic, los angeles",
@@ -1156,6 +1273,7 @@
       "lon": -118.325843180675
     },
     {
+      "id": "jero-s-antojitos-mexicanos",
       "name": "JERO'S ANTOJITOS MEXICANOS",
       "type": "Mexican",
       "tags": "mexican, antojitos, street food",
@@ -1167,6 +1285,7 @@
       "lon": -118.283615416712
     },
     {
+      "id": "jp-bbq-inc",
       "name": "JP BBQ INC",
       "type": "BBQ",
       "tags": "bbq, smoked meats",
@@ -1178,6 +1297,7 @@
       "lon": -118.295700561587
     },
     {
+      "id": "jus-brisket",
       "name": "JUS BRISKET",
       "type": "BBQ",
       "tags": "brisket, bbq, smoked",
@@ -1189,6 +1309,7 @@
       "lon": -118.545556191361
     },
     {
+      "id": "kafou-alkaline-foods",
       "name": "KAFOU ALKALINE FOODS",
       "type": "Vegan/Vegetarian",
       "tags": "alkaline, plant-based, healthy",
@@ -1200,6 +1321,7 @@
       "lon": -118.302856700038
     },
     {
+      "id": "karak-corner",
       "name": "KARAK CORNER",
       "type": "Beverage/Coffee/Tea",
       "tags": "karak, chai, tea",
@@ -1211,6 +1333,7 @@
       "lon": -118.503964909824
     },
     {
+      "id": "kdc-hospitality-group-llc",
       "name": "KDC HOSPITALITY GROUP LLC",
       "type": "Catering/Events",
       "tags": "hospitality, catering",
@@ -1222,6 +1345,7 @@
       "lon": -118.188025572605
     },
     {
+      "id": "kerala",
       "name": "KERALA",
       "type": "Indian/South Asian",
       "tags": "indian, kerala, south indian",
@@ -1233,6 +1357,7 @@
       "lon": -118.331448960231
     },
     {
+      "id": "keren-504-fruits",
       "name": "KEREN 504 FRUITS",
       "type": "Beverage/Coffee/Tea",
       "tags": "fresh fruit, fruit cups, beverages",
@@ -1244,6 +1369,7 @@
       "lon": -118.181548453845
     },
     {
+      "id": "krishnaveni-bholanath",
       "name": "KRISHNAVENI BHOLANATH",
       "type": "Indian/South Asian",
       "tags": "indian, jamaican, fusion",
@@ -1255,6 +1381,7 @@
       "lon": -118.295479447164
     },
     {
+      "id": "krybaby-cakes-cards",
       "name": "KRYBABY CAKES & CARDS",
       "type": "Bakery",
       "tags": "cakes, bakery, custom",
@@ -1266,6 +1393,7 @@
       "lon": -118.003422052609
     },
     {
+      "id": "la-belle-baguette",
       "name": "LA BELLE BAGUETTE",
       "type": "Sandwiches/Burgers",
       "tags": "french, baguette, sandwiches",
@@ -1277,6 +1405,7 @@
       "lon": -118.5503071268
     },
     {
+      "id": "la-la-happy-kitchen",
       "name": "LA LA HAPPY KITCHEN",
       "type": "Other",
       "tags": "asian, home kitchen",
@@ -1288,6 +1417,7 @@
       "lon": -118.062075887785
     },
     {
+      "id": "la-shunxing",
       "name": "LA SHUNXING",
       "type": "Chinese",
       "tags": "chinese, homestyle",
@@ -1299,6 +1429,7 @@
       "lon": -117.845100528163
     },
     {
+      "id": "lakay-flavors",
       "name": "LAKAY FLAVORS",
       "type": "Caribbean",
       "tags": "haitian, caribbean, ice cream",
@@ -1310,6 +1441,7 @@
       "lon": -118.343974408441
     },
     {
+      "id": "lamb-house-grill",
       "name": "LAMB HOUSE GRILL",
       "type": "Mediterranean/Middle Eastern",
       "tags": "lamb, grill, mediterranean",
@@ -1321,6 +1453,7 @@
       "lon": -118.157808419532
     },
     {
+      "id": "las-changas",
       "name": "LAS CHANGAS",
       "type": "Mexican",
       "tags": "mexican, weekend, authentic",
@@ -1332,6 +1465,7 @@
       "lon": -118.441223684046
     },
     {
+      "id": "lasagne-di-catania",
       "name": "LASAGNE DI CATANIA",
       "type": "Pizza/Italian",
       "tags": "italian, lasagna, sicilian",
@@ -1343,6 +1477,7 @@
       "lon": -118.212073528856
     },
     {
+      "id": "layered-ice-cream-pies",
       "name": "LAYERED ICE CREAM PIES",
       "type": "Desserts/Sweets",
       "tags": "ice cream, pie, desserts",
@@ -1354,6 +1489,7 @@
       "lon": -118.48515164013
     },
     {
+      "id": "lemme-smash-burger",
       "name": "LEMME SMASH BURGER",
       "type": "Sandwiches/Burgers",
       "tags": "smash burgers, burgers",
@@ -1365,6 +1501,7 @@
       "lon": -118.345540026243
     },
     {
+      "id": "leza",
       "name": "LEZA",
       "type": "Mediterranean/Middle Eastern",
       "tags": "mediterranean, catering, pastry",
@@ -1376,6 +1513,7 @@
       "lon": -118.585500487025
     },
     {
+      "id": "liangpi-house",
       "name": "LIANGPI HOUSE",
       "type": "Chinese",
       "tags": "chinese, liangpi, noodles",
@@ -1387,6 +1525,7 @@
       "lon": -118.062708206174
     },
     {
+      "id": "little-city-farm",
       "name": "LITTLE CITY FARM",
       "type": "Vegan/Vegetarian",
       "tags": "organic, farm, sustainable",
@@ -1398,6 +1537,7 @@
       "lon": -118.325986546475
     },
     {
+      "id": "litucho-s-grill",
       "name": "LITUCHO'S GRILL",
       "type": "Latin American",
       "tags": "grill, latin, plates",
@@ -1409,6 +1549,7 @@
       "lon": -118.334649876468
     },
     {
+      "id": "liv-s-lumpias",
       "name": "LIV'S LUMPIAS",
       "type": "Filipino",
       "tags": "filipino, lumpia, spring rolls",
@@ -1420,6 +1561,7 @@
       "lon": -117.903985326538
     },
     {
+      "id": "lomo-fuego-peruvian-food",
       "name": "LOMO FUEGO-PERUVIAN FOOD",
       "type": "Latin American",
       "tags": "peruvian, lomo saltado, fuego",
@@ -1431,6 +1573,7 @@
       "lon": -118.128906934397
     },
     {
+      "id": "long-style",
       "name": "LONG' STYLE",
       "type": "Chinese",
       "tags": "chinese, homestyle",
@@ -1442,6 +1585,7 @@
       "lon": -118.107062748305
     },
     {
+      "id": "losnooyado",
       "name": "LOSNOOYADO",
       "type": "Japanese/Korean",
       "tags": "japanese, soba, wagashi",
@@ -1453,6 +1597,7 @@
       "lon": -118.388603258052
     },
     {
+      "id": "lucky-s-place",
       "name": "LUCKY'S PLACE",
       "type": "Sandwiches/Burgers",
       "tags": "burgers, american, gourmet",
@@ -1464,6 +1609,7 @@
       "lon": -118.360753707912
     },
     {
+      "id": "luscious-tierra",
       "name": "LUSCIOUS TIERRA",
       "type": "Other",
       "tags": "homestyle, home kitchen",
@@ -1475,6 +1621,7 @@
       "lon": -118.346126314629
     },
     {
+      "id": "luvmi-charcuterie",
       "name": "LUVMI CHARCUTERIE",
       "type": "Charcuterie/Boards",
       "tags": "charcuterie, boards, grazing",
@@ -1486,6 +1633,7 @@
       "lon": -118.325316684994
     },
     {
+      "id": "ma-s-oasis",
       "name": "MA'S OASIS",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, home cooking",
@@ -1497,6 +1645,7 @@
       "lon": -118.060178519527
     },
     {
+      "id": "mam-s-kitchen",
       "name": "MAM'S KITCHEN",
       "type": "Other",
       "tags": "homestyle, home kitchen",
@@ -1508,6 +1657,7 @@
       "lon": -118.310341047204
     },
     {
+      "id": "mama-chila",
       "name": "MAMA CHILA",
       "type": "Mexican",
       "tags": "mexican, homestyle",
@@ -1519,6 +1669,7 @@
       "lon": -118.252355884849
     },
     {
+      "id": "mama-glendas",
       "name": "MAMA GLENDAS",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, homestyle",
@@ -1530,6 +1681,7 @@
       "lon": -118.241828744479
     },
     {
+      "id": "mama-s-cooking",
       "name": "MAMA'S COOKING",
       "type": "Comfort Food/Soul Food",
       "tags": "homestyle, comfort food, cooked meats",
@@ -1541,6 +1693,7 @@
       "lon": -117.89031906656
     },
     {
+      "id": "mamma-nicole-s-garden-goo",
       "name": "MAMMA NICOLE'S GARDEN GOO",
       "type": "Vegan/Vegetarian",
       "tags": "garden, organic, healthy",
@@ -1552,6 +1705,7 @@
       "lon": -118.231371593502
     },
     {
+      "id": "manfu-snack",
       "name": "MANFU SNACK",
       "type": "Chinese",
       "tags": "chinese, snacks, street food",
@@ -1563,6 +1717,7 @@
       "lon": -117.914541120084
     },
     {
+      "id": "mangia-at-home-llc",
       "name": "MANGIA AT HOME LLC",
       "type": "Pizza/Italian",
       "tags": "italian, homemade, mangia",
@@ -1574,6 +1729,7 @@
       "lon": -118.200011254839
     },
     {
+      "id": "mannge-chix",
       "name": "MANNGE CHIX",
       "type": "Other",
       "tags": "chicken, home kitchen",
@@ -1585,6 +1741,7 @@
       "lon": -118.555190471297
     },
     {
+      "id": "mardirosian-production-in",
       "name": "MARDIROSIAN PRODUCTION IN",
       "type": "Other",
       "tags": "armenian, home kitchen, glendale",
@@ -1596,6 +1753,7 @@
       "lon": -118.229838538164
     },
     {
+      "id": "maria-and-claudio-jimenez",
       "name": "MARIA AND CLAUDIO JIMENEZ",
       "type": "Mexican",
       "tags": "mexican, home cooking",
@@ -1607,6 +1765,7 @@
       "lon": -118.595664599591
     },
     {
+      "id": "marjan-cookery",
       "name": "MARJAN COOKERY",
       "type": "Mediterranean/Middle Eastern",
       "tags": "persian, cookery, home kitchen",
@@ -1618,6 +1777,7 @@
       "lon": -118.597500503169
     },
     {
+      "id": "martha-s-tacos-and-mexica",
       "name": "MARTHA'S TACOS AND MEXICA",
       "type": "Mexican",
       "tags": "mexican, tacos",
@@ -1629,6 +1789,7 @@
       "lon": -118.281862338913
     },
     {
+      "id": "masterpiece-kitchen",
       "name": "MASTERPIECE KITCHEN",
       "type": "Other",
       "tags": "american, eclectic, restaurant",
@@ -1640,6 +1801,7 @@
       "lon": -118.078577222109
     },
     {
+      "id": "mauritian-street-food",
       "name": "MAURITIAN STREET FOOD",
       "type": "Other",
       "tags": "mauritian, street food, multicultural",
@@ -1651,6 +1813,7 @@
       "lon": -118.445418661188
     },
     {
+      "id": "meat-district",
       "name": "MEAT DISTRICT",
       "type": "BBQ",
       "tags": "meat, cured meats, charcuterie",
@@ -1662,6 +1825,7 @@
       "lon": -118.294296372817
     },
     {
+      "id": "mediterranean-home-kitch",
       "name": "MEDITERRANEAN HOME KITCH",
       "type": "Mediterranean/Middle Eastern",
       "tags": "mediterranean, home kitchen",
@@ -1673,6 +1837,7 @@
       "lon": -118.379797111128
     },
     {
+      "id": "mehko-kitchen",
       "name": "MEHKO KITCHEN",
       "type": "Other",
       "tags": "meals, snacks, fruit",
@@ -1684,6 +1849,7 @@
       "lon": -118.349073035545
     },
     {
+      "id": "mei-lin-s-kitchen",
       "name": "MEI LIN'S KITCHEN",
       "type": "Chinese",
       "tags": "chinese, home cooking",
@@ -1695,6 +1861,7 @@
       "lon": -117.943925608455
     },
     {
+      "id": "mexiq",
       "name": "MEXIQ",
       "type": "Mexican",
       "tags": "mexican, fusion",
@@ -1706,6 +1873,7 @@
       "lon": -118.620453594304
     },
     {
+      "id": "mi-ri-yvonne",
       "name": "MI-RI YVONNE",
       "type": "Japanese/Korean",
       "tags": "korean, home cooking",
@@ -1717,6 +1885,7 @@
       "lon": -118.462812066779
     },
     {
+      "id": "michis-lemonade-companyl",
       "name": "MICHIS LEMONADE COMPANYL",
       "type": "Beverage/Coffee/Tea",
       "tags": "lemonade, beverages",
@@ -1728,6 +1897,7 @@
       "lon": -118.087890283668
     },
     {
+      "id": "mideast-eats",
       "name": "MIDEAST EATS",
       "type": "Mediterranean/Middle Eastern",
       "tags": "palestinian, halal, vegan",
@@ -1739,6 +1909,7 @@
       "lon": -118.236225233843
     },
     {
+      "id": "milkshake",
       "name": "MILKSHAKE",
       "type": "Beverage/Coffee/Tea",
       "tags": "milkshakes, beverages",
@@ -1750,6 +1921,7 @@
       "lon": -118.356822872075
     },
     {
+      "id": "minon-cake",
       "name": "MINON CAKE",
       "type": "Bakery",
       "tags": "cakes, asian bakery, durian",
@@ -1761,6 +1933,7 @@
       "lon": -117.911297776093
     },
     {
+      "id": "misti-s-house-peruvian-sty",
       "name": "MISTI'S HOUSE (PERUVIAN STY",
       "type": "Latin American",
       "tags": "peruvian, home cooking",
@@ -1772,6 +1945,7 @@
       "lon": -118.47993917434
     },
     {
+      "id": "montero-yogurt",
       "name": "MONTERO YOGURT",
       "type": "Desserts/Sweets",
       "tags": "yogurt, desserts",
@@ -1783,6 +1957,7 @@
       "lon": -118.057781936185
     },
     {
+      "id": "mr-ryong-s-artist-s-rice",
       "name": "MR RYONG'S ARTIST'S RICE",
       "type": "Japanese/Korean",
       "tags": "korean, rice bowls",
@@ -1794,10 +1969,11 @@
       "lon": -118.303148013764
     },
     {
+      "id": "my-kuzna",
       "name": "MY KUZNA",
       "type": "Filipino",
-      "tags": "filipino, cavite\u00f1o, home cooking",
-      "description": "Authentic Cavite\u00f1o Filipino dishes bringing back flavors from home.",
+      "tags": "filipino, caviteño, home cooking",
+      "description": "Authentic Caviteño Filipino dishes bringing back flavors from home.",
       "address": "2176 EL DORADO ST, TORRANCE 90501",
       "instagram": "@mykuzna",
       "website": "",
@@ -1805,6 +1981,7 @@
       "lon": -118.321320713011
     },
     {
+      "id": "n-diet",
       "name": "N. DIET",
       "type": "Other",
       "tags": "diet, healthy, meal prep",
@@ -1816,6 +1993,7 @@
       "lon": -118.432060553348
     },
     {
+      "id": "napo-pizza-llc",
       "name": "NAPO PIZZA, LLC",
       "type": "Pizza/Italian",
       "tags": "pizza",
@@ -1827,6 +2005,7 @@
       "lon": -118.499261611831
     },
     {
+      "id": "nawal",
       "name": "NAWAL",
       "type": "Mediterranean/Middle Eastern",
       "tags": "syrian, circassian, middle eastern",
@@ -1838,6 +2017,7 @@
       "lon": -118.234893868348
     },
     {
+      "id": "neighborhood-coffee",
       "name": "NEIGHBORHOOD COFFEE",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, espresso, cold brew",
@@ -1849,6 +2029,7 @@
       "lon": -118.348923615729
     },
     {
+      "id": "nia-s-table",
       "name": "NIA'S TABLE",
       "type": "Other",
       "tags": "home cooking, meals",
@@ -1860,6 +2041,7 @@
       "lon": -118.394661193469
     },
     {
+      "id": "nicolasa-s-kitchen",
       "name": "NICOLASA'S KITCHEN",
       "type": "Other",
       "tags": "basque, home cooking",
@@ -1871,6 +2053,7 @@
       "lon": -118.261406570635
     },
     {
+      "id": "nikkimomo",
       "name": "NIKKIMOMO",
       "type": "Other",
       "tags": "home kitchen",
@@ -1882,6 +2065,7 @@
       "lon": -118.353442521911
     },
     {
+      "id": "no-brand",
       "name": "NO BRAND",
       "type": "Japanese/Korean",
       "tags": "japanese, korean, gardena",
@@ -1893,6 +2077,7 @@
       "lon": -118.291149061931
     },
     {
+      "id": "noodle-girl",
       "name": "NOODLE GIRL",
       "type": "Vietnamese",
       "tags": "vietnamese, noodles, rice bowls",
@@ -1904,6 +2089,7 @@
       "lon": -118.156597740529
     },
     {
+      "id": "not-yo-mama-s-tacos",
       "name": "NOT YO MAMA'S TACOS",
       "type": "Mexican",
       "tags": "mexican, tacos, catering",
@@ -1915,6 +2101,7 @@
       "lon": -118.61748780991
     },
     {
+      "id": "not-your-mom-s-pies",
       "name": "NOT YOUR MOM'S PIES",
       "type": "Pizza/Italian",
       "tags": "italian, pies, homemade",
@@ -1926,6 +2113,7 @@
       "lon": -118.637095806042
     },
     {
+      "id": "nourished-roots",
       "name": "NOURISHED ROOTS",
       "type": "Vegan/Vegetarian",
       "tags": "healthy, bowls, fresh",
@@ -1937,6 +2125,7 @@
       "lon": -117.839388080336
     },
     {
+      "id": "nourisoup",
       "name": "NOURISOUP",
       "type": "Beverage/Coffee/Tea",
       "tags": "soup, herbal, wellness",
@@ -1948,6 +2137,7 @@
       "lon": -118.057368240875
     },
     {
+      "id": "ok-duck",
       "name": "OK DUCK",
       "type": "Chinese",
       "tags": "chinese, duck, dim sum",
@@ -1959,6 +2149,7 @@
       "lon": -117.895036331511
     },
     {
+      "id": "omar-s-tacos",
       "name": "OMAR'S TACOS",
       "type": "Mexican",
       "tags": "mexican, tacos, affordable",
@@ -1970,10 +2161,11 @@
       "lon": -117.986599934335
     },
     {
+      "id": "onggi-jonggi",
       "name": "ONGGI JONGGI",
       "type": "Bakery",
       "tags": "korean, cakes, custom",
-      "description": "unknown ",
+      "description": "Korean-inspired custom cakes baked by a home baker mom.",
       "address": "4320 VIINTON AVE, CULVER CITY 90232",
       "instagram": "",
       "website": "",
@@ -1981,6 +2173,7 @@
       "lon": -118.395155021461
     },
     {
+      "id": "our-lady-of-shallot",
       "name": "OUR LADY OF SHALLOT",
       "type": "Other",
       "tags": "homemade, food",
@@ -1992,6 +2185,7 @@
       "lon": -118.183430023126
     },
     {
+      "id": "pacaeli-services",
       "name": "PACAELI SERVICES",
       "type": "Catering/Events",
       "tags": "catering, delivery, food service",
@@ -2003,6 +2197,7 @@
       "lon": -118.301630799411
     },
     {
+      "id": "parker-house-delights",
       "name": "PARKER HOUSE DELIGHTS",
       "type": "Bakery",
       "tags": "baked goods, homemade, delights",
@@ -2014,6 +2209,7 @@
       "lon": -118.341562364642
     },
     {
+      "id": "pies-in-the-sky",
       "name": "PIES IN THE SKY",
       "type": "Pizza/Italian",
       "tags": "pizza, pies, homemade",
@@ -2025,6 +2221,7 @@
       "lon": -118.030569465123
     },
     {
+      "id": "pili-pili-de-congo",
       "name": "PILI PILI DE CONGO",
       "type": "Other",
       "tags": "congolese, african, spicy",
@@ -2036,6 +2233,7 @@
       "lon": -118.464701365514
     },
     {
+      "id": "pinkelicious-by-chef-mylen",
       "name": "PINKELICIOUS BY CHEF MYLEN",
       "type": "Catering/Events",
       "tags": "catering, filipino, events",
@@ -2047,6 +2245,7 @@
       "lon": -118.349482823282
     },
     {
+      "id": "pop-jerk",
       "name": "POP JERK",
       "type": "Caribbean",
       "tags": "caribbean, jerk, jamaican",
@@ -2058,6 +2257,7 @@
       "lon": -118.346676937098
     },
     {
+      "id": "qudsia-s",
       "name": "QUDSIA'S",
       "type": "Indian/South Asian",
       "tags": "south asian, homemade, halal",
@@ -2069,6 +2269,7 @@
       "lon": -118.402877871274
     },
     {
+      "id": "rafnroll",
       "name": "RAFNROLL",
       "type": "Other",
       "tags": "food, homemade",
@@ -2080,6 +2281,7 @@
       "lon": -118.266170711525
     },
     {
+      "id": "railroad-restaurant",
       "name": "RAILROAD RESTAURANT",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, homestyle, restaurant",
@@ -2091,6 +2293,7 @@
       "lon": -117.922766579847
     },
     {
+      "id": "raspados-estilo-tonala-ja",
       "name": "RASPADOS ESTILO TONALA, JA",
       "type": "Desserts/Sweets",
       "tags": "raspados, mexican ice, fruit",
@@ -2102,6 +2305,7 @@
       "lon": -117.95907892007
     },
     {
+      "id": "raspados-naturales",
       "name": "RASPADOS NATURALES",
       "type": "Desserts/Sweets",
       "tags": "raspados, natural, fruit",
@@ -2113,6 +2317,7 @@
       "lon": -117.760630102899
     },
     {
+      "id": "red-dragon-lounge",
       "name": "RED DRAGON LOUNGE",
       "type": "Other",
       "tags": "lounge, bar, drinks",
@@ -2124,6 +2329,7 @@
       "lon": -118.363769337582
     },
     {
+      "id": "red-eye-cafe",
       "name": "RED EYE CAFE",
       "type": "Breakfast/Brunch",
       "tags": "cafe, coffee, brunch",
@@ -2135,6 +2341,7 @@
       "lon": -117.977169127098
     },
     {
+      "id": "renaissance-south-la-inc",
       "name": "RENAISSANCE SOUTH LA INC",
       "type": "Other",
       "tags": "community, food, los angeles",
@@ -2146,6 +2353,7 @@
       "lon": -118.367970749822
     },
     {
+      "id": "reni-coffee",
       "name": "RENI COFFEE",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, beverages",
@@ -2157,6 +2365,7 @@
       "lon": -118.303239226426
     },
     {
+      "id": "rolli-bakehouse",
       "name": "ROLLI BAKEHOUSE",
       "type": "Bakery",
       "tags": "bakery, rolls, baked goods",
@@ -2168,6 +2377,7 @@
       "lon": -118.01879687955
     },
     {
+      "id": "royal-home-deli",
       "name": "ROYAL HOME DELI",
       "type": "Other",
       "tags": "deli, homemade, chinese",
@@ -2179,6 +2389,7 @@
       "lon": -117.889532229855
     },
     {
+      "id": "rubie",
       "name": "RUBIE",
       "type": "Other",
       "tags": "pop-up, food events, los angeles",
@@ -2190,6 +2401,7 @@
       "lon": -118.207660288317
     },
     {
+      "id": "sabor-de-mi-tierra",
       "name": "SABOR DE MI TIERRA",
       "type": "Latin American",
       "tags": "latin, homestyle, traditional",
@@ -2201,6 +2413,7 @@
       "lon": -118.424510654162
     },
     {
+      "id": "sabor-mexico-homemade",
       "name": "SABOR MEXICO HOMEMADE",
       "type": "Mexican",
       "tags": "mexican, homemade, traditional",
@@ -2212,6 +2425,7 @@
       "lon": -118.081928899602
     },
     {
+      "id": "sabor-peruano",
       "name": "SABOR PERUANO",
       "type": "Latin American",
       "tags": "peruvian, latin, gourmet",
@@ -2223,6 +2437,7 @@
       "lon": -118.469277916907
     },
     {
+      "id": "sahani-delight-kitchen",
       "name": "SAHANI DELIGHT KITCHEN",
       "type": "Other",
       "tags": "kenyan, grilled meats, stews",
@@ -2234,6 +2449,7 @@
       "lon": -118.333565048169
     },
     {
+      "id": "savie-bake-shop",
       "name": "SAVIE BAKE SHOP",
       "type": "Breakfast/Brunch",
       "tags": "breakfast burritos, bakery, mexican",
@@ -2245,6 +2461,7 @@
       "lon": -118.363780382114
     },
     {
+      "id": "serve-coffee-pastries",
       "name": "SERVE COFFEE + PASTRIES",
       "type": "Beverage/Coffee/Tea",
       "tags": "coffee, pastries, cafe",
@@ -2256,6 +2473,7 @@
       "lon": -118.215599623566
     },
     {
+      "id": "seven-plates-la",
       "name": "SEVEN PLATES LA",
       "type": "Other",
       "tags": "multi-course, plated, fine dining",
@@ -2267,6 +2485,7 @@
       "lon": -118.342928816549
     },
     {
+      "id": "simply-tastefull",
       "name": "SIMPLY TASTEFULL",
       "type": "Other",
       "tags": "homestyle, comfort food",
@@ -2278,6 +2497,7 @@
       "lon": -118.11884138652
     },
     {
+      "id": "smiling-islander",
       "name": "SMILING ISLANDER",
       "type": "Other",
       "tags": "sri lankan, kottu, street food",
@@ -2289,6 +2509,7 @@
       "lon": -118.327742900325
     },
     {
+      "id": "smoke-city-bbq-la",
       "name": "SMOKE CITY BBQ LA",
       "type": "BBQ",
       "tags": "bbq, smoked meats, barbecue",
@@ -2300,6 +2521,7 @@
       "lon": -118.313958020167
     },
     {
+      "id": "smoke-mo-s-la",
       "name": "SMOKE MO'S LA",
       "type": "BBQ",
       "tags": "bbq, smoked, mediterranean",
@@ -2311,6 +2533,7 @@
       "lon": -118.429338745063
     },
     {
+      "id": "smoked-out-sliders",
       "name": "SMOKED OUT SLIDERS",
       "type": "Sandwiches/Burgers",
       "tags": "sliders, smoked, burgers",
@@ -2322,6 +2545,7 @@
       "lon": -118.332252385024
     },
     {
+      "id": "socal-pie-co",
       "name": "SOCAL PIE CO",
       "type": "Pizza/Italian",
       "tags": "pizza, wings, pies",
@@ -2333,6 +2557,7 @@
       "lon": -118.097290605596
     },
     {
+      "id": "song-s-studio",
       "name": "SONG'S STUDIO",
       "type": "Other",
       "tags": "homestyle, pasadena",
@@ -2344,6 +2569,7 @@
       "lon": -118.082441045016
     },
     {
+      "id": "soul-spice",
       "name": "SOUL & SPICE",
       "type": "Comfort Food/Soul Food",
       "tags": "soul food, southern, comfort",
@@ -2355,6 +2581,7 @@
       "lon": -117.991763260773
     },
     {
+      "id": "squat-fox-meal",
       "name": "SQUAT FOX MEAL",
       "type": "Other",
       "tags": "meal prep, homestyle",
@@ -2366,6 +2593,7 @@
       "lon": -118.032855828299
     },
     {
+      "id": "ssal",
       "name": "SSAL&",
       "type": "Japanese/Korean",
       "tags": "korean, noodles, soup",
@@ -2377,6 +2605,7 @@
       "lon": -118.393766055617
     },
     {
+      "id": "sumth-n-delicious",
       "name": "SUMTH' N DELICIOUS",
       "type": "Caribbean",
       "tags": "belizean, jamaican, caribbean",
@@ -2388,6 +2617,7 @@
       "lon": -118.157942239426
     },
     {
+      "id": "sup",
       "name": "SUP",
       "type": "Japanese/Korean",
       "tags": "korean, chicken, sandwiches",
@@ -2399,6 +2629,7 @@
       "lon": -118.307356289613
     },
     {
+      "id": "sweet-sticky-thangs",
       "name": "SWEET STICKY THANGS",
       "type": "Desserts/Sweets",
       "tags": "sweets, sticky, desserts",
@@ -2410,6 +2641,7 @@
       "lon": -118.323304427574
     },
     {
+      "id": "taco-legendz",
       "name": "TACO LEGENDZ",
       "type": "Mexican",
       "tags": "tacos, mexican",
@@ -2421,6 +2653,7 @@
       "lon": -118.146262781126
     },
     {
+      "id": "tacos-el-arbitro",
       "name": "TACOS EL ARBITRO",
       "type": "Mexican",
       "tags": "tacos, quesadillas, burritos",
@@ -2432,6 +2665,7 @@
       "lon": -118.442365684615
     },
     {
+      "id": "tacos-el-chino",
       "name": "TACOS EL CHINO",
       "type": "Mexican",
       "tags": "tacos, tijuana-style, mexican",
@@ -2443,10 +2677,11 @@
       "lon": -118.213470402587
     },
     {
+      "id": "tacos-el-pariente-de-maza",
       "name": "TACOS EL PARIENTE DE MAZA",
       "type": "Mexican",
       "tags": "tacos, mazatlan, sinaloa",
-      "description": "Mazatl\u00e1n Sinaloa-style tacos served in Compton.",
+      "description": "Mazatlán Sinaloa-style tacos served in Compton.",
       "address": "14420 S ATLANTIC AVE APT A, COMPTON 90221",
       "instagram": "@tacos_el_pariente_de_maza",
       "website": "",
@@ -2454,6 +2689,7 @@
       "lon": -118.193730139691
     },
     {
+      "id": "tao-s-kitchen",
       "name": "TAO'S KITCHEN",
       "type": "Vietnamese",
       "tags": "vietnamese, pho, comfort food",
@@ -2465,6 +2701,7 @@
       "lon": -118.10241447343
     },
     {
+      "id": "taurouxs-smash-burgers",
       "name": "TAUROUXS SMASH BURGERS",
       "type": "Sandwiches/Burgers",
       "tags": "smash burgers, grass-fed, burgers",
@@ -2476,6 +2713,7 @@
       "lon": -118.061634779652
     },
     {
+      "id": "tequetable",
       "name": "TEQUETABLE",
       "type": "Latin American",
       "tags": "venezuelan, brazilian, south american",
@@ -2487,6 +2725,7 @@
       "lon": -118.411930359568
     },
     {
+      "id": "terra-table",
       "name": "TERRA TABLE",
       "type": "Mediterranean/Middle Eastern",
       "tags": "persian, kebab, mediterranean",
@@ -2498,17 +2737,19 @@
       "lon": -118.260045934331
     },
     {
+      "id": "thai-rama-kitchen",
       "name": "THAI RAMA KITCHEN",
       "type": "Other",
       "tags": "thai, asian",
       "description": "Thai cuisine prepared from a home kitchen in Glendale.",
-      "address": "736 W DRYDEN ST, GLENDALE 9120-2",
+      "address": "736 W DRYDEN ST, GLENDALE 91202",
       "instagram": "",
       "website": "",
       "lat": 34.160980490552,
       "lon": -118.271456457227
     },
     {
+      "id": "the-apron-guild",
       "name": "THE APRON GUILD",
       "type": "Catering/Events",
       "tags": "organic, gourmet, catering",
@@ -2520,6 +2761,7 @@
       "lon": -118.408919071346
     },
     {
+      "id": "the-best-kosher-burger",
       "name": "THE BEST KOSHER BURGER",
       "type": "Sandwiches/Burgers",
       "tags": "kosher, burgers, smash burger",
@@ -2531,6 +2773,7 @@
       "lon": -118.341236558876
     },
     {
+      "id": "the-ernest-elixirs-corpora",
       "name": "THE ERNEST ELIXIRS CORPORA",
       "type": "Beverage/Coffee/Tea",
       "tags": "elixirs, beverages, drinks",
@@ -2542,6 +2785,7 @@
       "lon": -118.275659583666
     },
     {
+      "id": "the-hearty-home-company",
       "name": "THE HEARTY HOME COMPANY",
       "type": "Comfort Food/Soul Food",
       "tags": "homestyle, comfort food, hearty",
@@ -2553,6 +2797,7 @@
       "lon": -118.634704519446
     },
     {
+      "id": "the-herbitage-table",
       "name": "THE HERBITAGE TABLE",
       "type": "Vegan/Vegetarian",
       "tags": "farm-to-table, seasonal, sustainable",
@@ -2564,6 +2809,7 @@
       "lon": -118.441408372116
     },
     {
+      "id": "the-kebab-mob",
       "name": "THE KEBAB MOB",
       "type": "Mediterranean/Middle Eastern",
       "tags": "kebab, mediterranean, grilled meats",
@@ -2575,6 +2821,7 @@
       "lon": -118.192051113559
     },
     {
+      "id": "the-mini-bites-company",
       "name": "THE MINI BITES COMPANY",
       "type": "Catering/Events",
       "tags": "mini bites, appetizers, catering",
@@ -2586,6 +2833,7 @@
       "lon": -118.231630578819
     },
     {
+      "id": "the-ocean-s-table",
       "name": "THE OCEAN'S TABLE",
       "type": "Seafood",
       "tags": "seafood, coastal, homestyle",
@@ -2597,6 +2845,7 @@
       "lon": -118.389146520631
     },
     {
+      "id": "the-pastry-song",
       "name": "THE PASTRY SONG",
       "type": "Bakery",
       "tags": "pastry, baked goods, desserts",
@@ -2608,6 +2857,7 @@
       "lon": -117.939483953649
     },
     {
+      "id": "the-patio",
       "name": "THE PATIO",
       "type": "Comfort Food/Soul Food",
       "tags": "homestyle, comfort food, grill",
@@ -2619,6 +2869,7 @@
       "lon": -118.253022211456
     },
     {
+      "id": "the-smokey-sermon",
       "name": "THE SMOKEY SERMON",
       "type": "BBQ",
       "tags": "bbq, smoked meats, barbecue",
@@ -2630,6 +2881,7 @@
       "lon": -118.312310955192
     },
     {
+      "id": "the-sweet-mexicraft",
       "name": "THE SWEET MEXICRAFT",
       "type": "Mexican",
       "tags": "mexican, sweets, craft",
@@ -2641,6 +2893,7 @@
       "lon": -118.139372274114
     },
     {
+      "id": "the-tamale-shoppe",
       "name": "THE TAMALE SHOPPE",
       "type": "Mexican",
       "tags": "tamales, mexican, homemade",
@@ -2652,6 +2905,7 @@
       "lon": -118.184172652965
     },
     {
+      "id": "three-monsters-kitchen",
       "name": "THREE MONSTERS KITCHEN &",
       "type": "Comfort Food/Soul Food",
       "tags": "comfort food, homestyle, american",
@@ -2663,6 +2917,7 @@
       "lon": -118.302503205234
     },
     {
+      "id": "ting-s-kitchen",
       "name": "TING'S KITCHEN",
       "type": "Chinese",
       "tags": "chinese, homestyle, home kitchen",
@@ -2674,6 +2929,7 @@
       "lon": -117.954469813295
     },
     {
+      "id": "tl-tiny-treats",
       "name": "TL TINY TREATS",
       "type": "Desserts/Sweets",
       "tags": "treats, sweets, mini desserts",
@@ -2685,6 +2941,7 @@
       "lon": -118.022934111743
     },
     {
+      "id": "toasted-sugar-bakery",
       "name": "TOASTED SUGAR BAKERY",
       "type": "Bakery",
       "tags": "bakery, toasted, pastries",
@@ -2696,6 +2953,7 @@
       "lon": -118.302508609899
     },
     {
+      "id": "true-form",
       "name": "TRUE FORM",
       "type": "Vegan/Vegetarian",
       "tags": "healthy, plant-based, fresh",
@@ -2707,6 +2965,7 @@
       "lon": -118.342876581702
     },
     {
+      "id": "u-s-xiafei-tiandi-education",
       "name": "U.S. XIAFEI TIANDI EDUCATION",
       "type": "Chinese",
       "tags": "chinese, education, cooking",
@@ -2718,6 +2977,7 @@
       "lon": -117.96058763132
     },
     {
+      "id": "vegan-got-soul",
       "name": "VEGAN GOT SOUL!",
       "type": "Vegan/Vegetarian",
       "tags": "vegan, soul food, plant-based",
@@ -2729,6 +2989,7 @@
       "lon": -118.385247085022
     },
     {
+      "id": "veggie-y-que",
       "name": "VEGGIE Y QUE",
       "type": "Vegan/Vegetarian",
       "tags": "vegan, mexican, plant-based",
@@ -2740,6 +3001,7 @@
       "lon": -118.065326927731
     },
     {
+      "id": "vendittis-pizza",
       "name": "VENDITTIS PIZZA",
       "type": "Pizza/Italian",
       "tags": "pizza, italian",
@@ -2751,6 +3013,7 @@
       "lon": -118.585113308905
     },
     {
+      "id": "vida-kitchen",
       "name": "VIDA KITCHEN",
       "type": "Latin American",
       "tags": "fusion, latin, cantina",
@@ -2762,6 +3025,7 @@
       "lon": -118.313729796645
     },
     {
+      "id": "village-gate",
       "name": "VILLAGE GATE",
       "type": "Other",
       "tags": "homestyle, home kitchen",
@@ -2773,6 +3037,7 @@
       "lon": -118.30285967623
     },
     {
+      "id": "voodi-s-kitchen",
       "name": "VOODI'S KITCHEN",
       "type": "Comfort Food/Soul Food",
       "tags": "homestyle, comfort food",
@@ -2784,6 +3049,7 @@
       "lon": -118.658419410085
     },
     {
+      "id": "wait-wait-wait",
       "name": "WAIT WAIT WAIT",
       "type": "Chinese",
       "tags": "chinese, asian, homestyle",
@@ -2795,6 +3061,7 @@
       "lon": -117.961865940626
     },
     {
+      "id": "wraps-to-gomeztrejo",
       "name": "WRAPS-TO-GOMEZTREJO",
       "type": "Sandwiches/Burgers",
       "tags": "wraps, to-go, homemade",
@@ -2806,6 +3073,7 @@
       "lon": -117.998865079123
     },
     {
+      "id": "wurst-barbeque",
       "name": "WURST BARBEQUE",
       "type": "BBQ",
       "tags": "bbq, sausage, grilled",
@@ -2817,6 +3085,7 @@
       "lon": -118.224430879529
     },
     {
+      "id": "yana-s-ladas",
       "name": "YANA'S LADAS",
       "type": "Latin American",
       "tags": "empanadas, latin, homemade",
@@ -2828,6 +3097,7 @@
       "lon": -118.24187885986
     },
     {
+      "id": "yang-s-family-kitchen",
       "name": "YANG'S FAMILY KITCHEN",
       "type": "Chinese",
       "tags": "chinese, homestyle, family",
@@ -2839,6 +3109,7 @@
       "lon": -117.787897819084
     },
     {
+      "id": "yu-s-kitchen",
       "name": "YU'S KITCHEN",
       "type": "Chinese",
       "tags": "chinese, homestyle",
@@ -2850,6 +3121,7 @@
       "lon": -118.097351657218
     },
     {
+      "id": "yue-yummy-kitchen",
       "name": "YUE YUMMY KITCHEN",
       "type": "Chinese",
       "tags": "asian, chinese, soup",

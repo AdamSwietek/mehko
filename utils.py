@@ -190,7 +190,12 @@ def search_and_extract(name: str, city: str, client) -> tuple[str, str, str]:
 
 def build_map(businesses: list, cuisine_types: list, output_path: str = "index.html"):
     """
-    Write the Leaflet HTML map and a companion data/businesses.json file.
+    Legacy helper that writes only data/businesses.json.
+
+    The checked-in index.html is the canonical site shell and is never generated
+    here. New code should use scripts/build_businesses.py, which validates the
+    canonical CSV before publishing JSON.
+
     `businesses` is a list of dicts with keys:
         name, type, tags, description, address, instagram, website, lat, lon
     """
@@ -201,10 +206,6 @@ def build_map(businesses: list, cuisine_types: list, output_path: str = "index.h
     with open(json_path, "w") as f:
         json.dump({"businesses": businesses, "types": cuisine_types}, f, indent=2)
     print(f"Saved → {json_path}  ({len(businesses)} businesses)")
-
-    with open(output_path, "w") as f:
-        f.write(_MAP_TEMPLATE)
-    print(f"Saved → {output_path}")
 
 
 _MAP_TEMPLATE = """<!DOCTYPE html>
